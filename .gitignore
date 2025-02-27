@@ -1,0 +1,11 @@
+node_modules/
+.DS_Store
+dist/
+build/
+.env
+.env.*
+3d clothes/
+Clothes/
+.next/
+*.tsbuildinfo
+next-env.d.ts
