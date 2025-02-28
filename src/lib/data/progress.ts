@@ -1,9 +1,9 @@
-// Build progress: Task 12 of 1046
-// Date: February 28, 2025 1:48 PM
-// Set up seed data for placeholder products, brands, collections, and stub reviews using mock garments instead of production-ready assets so the team can code flows before the production catalog exists.
+// Build progress: Task 13 of 1046
+// Date: February 28, 2025 2:33 PM
+// Create a media naming convention for placeholder images, faux video thumbnails, and simple mesh stand-ins so the later swap to real 3D assets does not break product references.
 export const BUILD_PROGRESS = {
-  currentTask: 12,
+  currentTask: 13,
   totalTasks: 1046,
-  lastUpdate: '2025-02-28T19:48:00.000Z',
-  description: "Set up seed data for placeholder products, brands, collections, and stub reviews using mock garments instead of production-ready assets so the team can code flows before the production catalog exists.",
+  lastUpdate: '2025-02-28T20:33:00.000Z',
+  description: "Create a media naming convention for placeholder images, faux video thumbnails, and simple mesh stand-ins so the later swap to real 3D assets does not break product references.",
 }
