@@ -1,4 +1,5 @@
-// seed-version: 8
+// seed-version: 12
+
 
 import { Product, Collection, Brand, Review } from '@/lib/types'
 
