@@ -1,3 +1,4 @@
+// layout-version: 7
 // a11y-pass: 1
 'use client'
 
