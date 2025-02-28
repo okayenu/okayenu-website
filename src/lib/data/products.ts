@@ -1,4 +1,5 @@
-// seed-version: 2
+// seed-version: 8
+
 import { Product, Collection, Brand, Review } from '@/lib/types'
 
 const placeholderImages = [
