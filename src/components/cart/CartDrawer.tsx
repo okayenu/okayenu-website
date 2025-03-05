@@ -1,4 +1,5 @@
-// cart-update: 1
+// cart-update: 28
+
 'use client'
 
 import { X, Minus, Plus, Trash2, ShoppingBag, ArrowRight, Tag } from 'lucide-react'
