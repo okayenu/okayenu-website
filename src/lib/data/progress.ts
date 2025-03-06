@@ -1,9 +1,9 @@
-// Build progress: Task 34 of 1046
-// Date: March 06, 2025 10:48 AM
-// Investigate and patch layout jumps caused by image aspect-ratio placeholders before additional features land, because early instability will ripple into later commerce and 3D work.
+// Build progress: Task 35 of 1046
+// Date: March 06, 2025 12:39 PM
+// Compare `Next.js App Router` against a lighter client-only shell, document the SEO, 3D hydration, and dashboard tradeoffs, then lock the base repository direction for placeholder garments, mock textures, and later asset swaps.
 export const BUILD_PROGRESS = {
-  currentTask: 34,
+  currentTask: 35,
   totalTasks: 1046,
-  lastUpdate: '2025-03-06T16:48:00.000Z',
-  description: "Investigate and patch layout jumps caused by image aspect-ratio placeholders before additional features land, because early instability will ripple into later commerce and 3D work.",
+  lastUpdate: '2025-03-06T18:39:00.000Z',
+  description: "Compare `Next.js App Router` against a lighter client-only shell, document the SEO, 3D hydration, and dashboard tradeoffs, then lock the base repository direction for placeholder garments, mock textures, and later asset swaps.",
 }
