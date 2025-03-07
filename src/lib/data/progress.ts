@@ -1,9 +1,9 @@
-// Build progress: Task 41 of 1046
-// Date: March 07, 2025 8:02 AM
-// Build the first responsive shell for sticky header, search tray, and cart drawer affordances with deliberate breakpoints for narrow phones, tablets, laptops, and wide desktop layouts.
+// Build progress: Task 42 of 1046
+// Date: March 07, 2025 9:48 AM
+// Set up seed data for placeholder products, brands, collections, and stub reviews using mock garments instead of production-ready assets so the team can code flows before the production catalog exists.
 export const BUILD_PROGRESS = {
-  currentTask: 41,
+  currentTask: 42,
   totalTasks: 1046,
-  lastUpdate: '2025-03-07T14:02:00.000Z',
-  description: "Build the first responsive shell for sticky header, search tray, and cart drawer affordances with deliberate breakpoints for narrow phones, tablets, laptops, and wide desktop layouts.",
+  lastUpdate: '2025-03-07T15:48:00.000Z',
+  description: "Set up seed data for placeholder products, brands, collections, and stub reviews using mock garments instead of production-ready assets so the team can code flows before the production catalog exists.",
 }
