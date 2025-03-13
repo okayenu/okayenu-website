@@ -1,9 +1,9 @@
-// Build progress: Task 70 of 1046
-// Date: March 12, 2025 6:37 PM
-// Debug layout jumps caused by image aspect-ratio placeholders and close the issue with notes that future contributors can use during environment setup.
+// Build progress: Task 71 of 1046
+// Date: March 13, 2025 8:23 AM
+// Compare `Next.js App Router` against a lighter client-only shell, document the SEO, 3D hydration, and dashboard tradeoffs, then lock the base repository direction for responsive storefront, dashboard, and account shells.
 export const BUILD_PROGRESS = {
-  currentTask: 70,
+  currentTask: 71,
   totalTasks: 1046,
-  lastUpdate: '2025-03-12T23:37:00.000Z',
-  description: "Debug layout jumps caused by image aspect-ratio placeholders and close the issue with notes that future contributors can use during environment setup.",
+  lastUpdate: '2025-03-13T13:23:00.000Z',
+  description: "Compare `Next.js App Router` against a lighter client-only shell, document the SEO, 3D hydration, and dashboard tradeoffs, then lock the base repository direction for responsive storefront, dashboard, and account shells.",
 }
