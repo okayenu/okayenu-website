@@ -1,9 +1,9 @@
-// Build progress: Task 77 of 1046
-// Date: March 13, 2025 4:53 PM
-// Create a media naming convention for placeholder images, faux video thumbnails, and simple mesh stand-ins so the later swap to real 3D assets does not break product references.
+// Build progress: Task 78 of 1046
+// Date: March 13, 2025 5:46 PM
+// Wire linting, formatting, commit hooks, and smoke tests around the new app shell, then fix any bootstrap issues related to layout jumps caused by image aspect-ratio placeholders.
 export const BUILD_PROGRESS = {
-  currentTask: 77,
+  currentTask: 78,
   totalTasks: 1046,
-  lastUpdate: '2025-03-13T21:53:00.000Z',
-  description: "Create a media naming convention for placeholder images, faux video thumbnails, and simple mesh stand-ins so the later swap to real 3D assets does not break product references.",
+  lastUpdate: '2025-03-13T22:46:00.000Z',
+  description: "Wire linting, formatting, commit hooks, and smoke tests around the new app shell, then fix any bootstrap issues related to layout jumps caused by image aspect-ratio placeholders.",
 }
