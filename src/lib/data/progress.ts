@@ -1,9 +1,9 @@
-// Build progress: Task 86 of 1046
-// Date: March 14, 2025 4:09 PM
-// Investigate and patch accessibility regressions in keyboard-only navigation paths before additional features land, because early instability will ripple into later commerce and 3D work.
+// Build progress: Task 87 of 1046
+// Date: March 14, 2025 4:46 PM
+// Compare `Next.js App Router` against a lighter client-only shell, document the SEO, 3D hydration, and dashboard tradeoffs, then lock the base repository direction for responsive storefront, dashboard, and account shells.
 export const BUILD_PROGRESS = {
-  currentTask: 86,
+  currentTask: 87,
   totalTasks: 1046,
-  lastUpdate: '2025-03-14T21:09:00.000Z',
-  description: "Investigate and patch accessibility regressions in keyboard-only navigation paths before additional features land, because early instability will ripple into later commerce and 3D work.",
+  lastUpdate: '2025-03-14T21:46:00.000Z',
+  description: "Compare `Next.js App Router` against a lighter client-only shell, document the SEO, 3D hydration, and dashboard tradeoffs, then lock the base repository direction for responsive storefront, dashboard, and account shells.",
 }
