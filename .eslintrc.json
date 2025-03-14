@@ -1,4 +1,4 @@
 {
   "extends": "next/core-web-vitals",
-  "_version": 82
+  "_version": 88
 }
