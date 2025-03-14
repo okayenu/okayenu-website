@@ -1,9 +1,9 @@
-// Build progress: Task 79 of 1046
-// Date: March 13, 2025 6:23 PM
-// Prototype the navigation information architecture covering storefront discovery, account pages, merchant tools, and support flows, then validate it against responsive storefront, dashboard, and account shells.
+// Build progress: Task 80 of 1046
+// Date: March 14, 2025 8:56 AM
+// Set up seed data for placeholder products, brands, collections, and stub reviews using mock garments instead of production-ready assets so the team can code flows before the production catalog exists.
 export const BUILD_PROGRESS = {
-  currentTask: 79,
+  currentTask: 80,
   totalTasks: 1046,
-  lastUpdate: '2025-03-13T23:23:00.000Z',
-  description: "Prototype the navigation information architecture covering storefront discovery, account pages, merchant tools, and support flows, then validate it against responsive storefront, dashboard, and account shells.",
+  lastUpdate: '2025-03-14T13:56:00.000Z',
+  description: "Set up seed data for placeholder products, brands, collections, and stub reviews using mock garments instead of production-ready assets so the team can code flows before the production catalog exists.",
 }
