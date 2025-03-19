@@ -1,3 +1,4 @@
+// wishlist-update: 107
 'use client'
 
 import { Heart, Trash2, ShoppingBag, ArrowRight } from 'lucide-react'
