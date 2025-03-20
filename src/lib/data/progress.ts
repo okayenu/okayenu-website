@@ -1,9 +1,9 @@
-// Build progress: Task 114 of 1046
-// Date: March 20, 2025 9:52 AM
-// Code the account creation, sign-in, password reset, and profile bootstrap flows, with special attention to how demographic questions feed later review matching without feeling invasive.
+// Build progress: Task 115 of 1046
+// Date: March 20, 2025 11:07 AM
+// Design the first review form with star ratings, fit tags, written feedback, and optional media uploads, then store the demographic dimensions for height, skin tone, and wardrobe occasion.
 export const BUILD_PROGRESS = {
-  currentTask: 114,
+  currentTask: 115,
   totalTasks: 1046,
-  lastUpdate: '2025-03-20T14:52:00.000Z',
-  description: "Code the account creation, sign-in, password reset, and profile bootstrap flows, with special attention to how demographic questions feed later review matching without feeling invasive.",
+  lastUpdate: '2025-03-20T16:07:00.000Z',
+  description: "Design the first review form with star ratings, fit tags, written feedback, and optional media uploads, then store the demographic dimensions for height, skin tone, and wardrobe occasion.",
 }
