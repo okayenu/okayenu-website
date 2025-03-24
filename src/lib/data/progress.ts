@@ -1,9 +1,9 @@
-// Build progress: Task 128 of 1046
-// Date: March 21, 2025 7:26 PM
-// Create the product detail data model so galleries, linked video reviews, shipping promises, and related-item rails can all hydrate from a single typed payload. Keep every media reference pointed at placeholders so later asset migration remains a controlled refactor instead of a rewrite.
+// Build progress: Task 129 of 1046
+// Date: March 24, 2025 8:12 AM
+// Stabilize the data-fetching layer for catalog and account screens, then eliminate any test failures tied to loading races, empty states, or partial session hydration.
 export const BUILD_PROGRESS = {
-  currentTask: 128,
+  currentTask: 129,
   totalTasks: 1046,
-  lastUpdate: '2025-03-22T00:26:00.000Z',
-  description: "Create the product detail data model so galleries, linked video reviews, shipping promises, and related-item rails can all hydrate from a single typed payload. Keep every media reference pointed at placeholders so later asset migration remains a controlled refactor instead of a rewrite.",
+  lastUpdate: '2025-03-24T13:12:00.000Z',
+  description: "Stabilize the data-fetching layer for catalog and account screens, then eliminate any test failures tied to loading races, empty states, or partial session hydration.",
 }
