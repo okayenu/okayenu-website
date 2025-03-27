@@ -1,9 +1,9 @@
-// Build progress: Task 151 of 1046
-// Date: March 26, 2025 7:27 PM
-// Add linked video review sections to product pages, including preview cards, watch-state analytics, and graceful fallbacks when only placeholder media is available.
+// Build progress: Task 152 of 1046
+// Date: March 27, 2025 8:03 AM
+// Create the product detail data model so galleries, linked video reviews, shipping promises, and related-item rails can all hydrate from a single typed payload.
 export const BUILD_PROGRESS = {
-  currentTask: 151,
+  currentTask: 152,
   totalTasks: 1046,
-  lastUpdate: '2025-03-27T00:27:00.000Z',
-  description: "Add linked video review sections to product pages, including preview cards, watch-state analytics, and graceful fallbacks when only placeholder media is available.",
+  lastUpdate: '2025-03-27T13:03:00.000Z',
+  description: "Create the product detail data model so galleries, linked video reviews, shipping promises, and related-item rails can all hydrate from a single typed payload.",
 }
