@@ -1,9 +1,9 @@
-// Build progress: Task 194 of 1046
-// Date: April 02, 2025 5:22 PM
-// Implement the first cart drawer interactions for quantity changes, size swaps, and promo code validation, then debug any state drift between product pages and persisted cart snapshots. Keep every media reference pointed at placeholders so later asset migration remains a controlled refactor instead of a rewrite.
+// Build progress: Task 195 of 1046
+// Date: April 03, 2025 9:48 AM
+// Code the account creation, sign-in, password reset, and profile bootstrap flows, with special attention to how demographic questions feed later review matching without feeling invasive.
 export const BUILD_PROGRESS = {
-  currentTask: 194,
+  currentTask: 195,
   totalTasks: 1046,
-  lastUpdate: '2025-04-02T22:22:00.000Z',
-  description: "Implement the first cart drawer interactions for quantity changes, size swaps, and promo code validation, then debug any state drift between product pages and persisted cart snapshots. Keep every media reference pointed at placeholders so later asset migration remains a controlled refactor instead of a rewrite.",
+  lastUpdate: '2025-04-03T14:48:00.000Z',
+  description: "Code the account creation, sign-in, password reset, and profile bootstrap flows, with special attention to how demographic questions feed later review matching without feeling invasive.",
 }
