@@ -1,9 +1,9 @@
-// Build progress: Task 236 of 1046
-// Date: April 09, 2025 6:57 PM
-// Implement the first cart drawer interactions for quantity changes, size swaps, and promo code validation, then debug any state drift between product pages and persisted cart snapshots.
+// Build progress: Task 237 of 1046
+// Date: April 10, 2025 8:08 AM
+// Design the first review form with star ratings, fit tags, written feedback, and optional media uploads, then store the demographic dimensions for lifestyle category, profession, and event type.
 export const BUILD_PROGRESS = {
-  currentTask: 236,
+  currentTask: 237,
   totalTasks: 1046,
-  lastUpdate: '2025-04-09T23:57:00.000Z',
-  description: "Implement the first cart drawer interactions for quantity changes, size swaps, and promo code validation, then debug any state drift between product pages and persisted cart snapshots.",
+  lastUpdate: '2025-04-10T13:08:00.000Z',
+  description: "Design the first review form with star ratings, fit tags, written feedback, and optional media uploads, then store the demographic dimensions for lifestyle category, profession, and event type.",
 }
