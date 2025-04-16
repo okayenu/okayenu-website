@@ -1,9 +1,9 @@
-// Build progress: Task 274 of 1046
-// Date: April 15, 2025 6:12 PM
-// Run a focused bug triage session on chat and social notifications arriving out of order, fix the root cause, and add coverage so the regression does not reappear later.
+// Build progress: Task 275 of 1046
+// Date: April 16, 2025 9:31 AM
+// Debug data quality issues in the recommendation pipeline by tracing malformed events, duplicated review votes, and stale profile fields back to their source screens.
 export const BUILD_PROGRESS = {
-  currentTask: 274,
+  currentTask: 275,
   totalTasks: 1046,
-  lastUpdate: '2025-04-15T23:12:00.000Z',
-  description: "Run a focused bug triage session on chat and social notifications arriving out of order, fix the root cause, and add coverage so the regression does not reappear later.",
+  lastUpdate: '2025-04-16T14:31:00.000Z',
+  description: "Debug data quality issues in the recommendation pipeline by tracing malformed events, duplicated review votes, and stale profile fields back to their source screens.",
 }
