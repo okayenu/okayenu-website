@@ -1,9 +1,9 @@
-// Build progress: Task 284 of 1046
-// Date: April 17, 2025 4:04 PM
-// Create UI controls for spin, zoom, reset, hotspots, and fallback screenshots in the placeholder viewer, then tune them for devices with weaker GPUs.
+// Build progress: Task 285 of 1046
+// Date: April 17, 2025 6:07 PM
+// Run a focused bug triage session on reverse image uploads failing on large files or weak networks, fix the root cause, and add coverage so the regression does not reappear later.
 export const BUILD_PROGRESS = {
-  currentTask: 284,
+  currentTask: 285,
   totalTasks: 1046,
-  lastUpdate: '2025-04-17T21:04:00.000Z',
-  description: "Create UI controls for spin, zoom, reset, hotspots, and fallback screenshots in the placeholder viewer, then tune them for devices with weaker GPUs.",
+  lastUpdate: '2025-04-17T23:07:00.000Z',
+  description: "Run a focused bug triage session on reverse image uploads failing on large files or weak networks, fix the root cause, and add coverage so the regression does not reappear later.",
 }
