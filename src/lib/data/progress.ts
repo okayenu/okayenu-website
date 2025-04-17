@@ -1,9 +1,9 @@
-// Build progress: Task 283 of 1046
-// Date: April 17, 2025 12:52 PM
-// Stand up the placeholder 3D viewer using loading states that bridge static imagery to a 3D scene so the scene architecture is tested before production garment files arrive.
+// Build progress: Task 284 of 1046
+// Date: April 17, 2025 4:04 PM
+// Create UI controls for spin, zoom, reset, hotspots, and fallback screenshots in the placeholder viewer, then tune them for devices with weaker GPUs.
 export const BUILD_PROGRESS = {
-  currentTask: 283,
+  currentTask: 284,
   totalTasks: 1046,
-  lastUpdate: '2025-04-17T17:52:00.000Z',
-  description: "Stand up the placeholder 3D viewer using loading states that bridge static imagery to a 3D scene so the scene architecture is tested before production garment files arrive.",
+  lastUpdate: '2025-04-17T21:04:00.000Z',
+  description: "Create UI controls for spin, zoom, reset, hotspots, and fallback screenshots in the placeholder viewer, then tune them for devices with weaker GPUs.",
 }
