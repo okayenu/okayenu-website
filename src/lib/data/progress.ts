@@ -1,9 +1,9 @@
-// Build progress: Task 298 of 1046
-// Date: April 21, 2025 1:28 PM
-// Build the first trending score that combines saves, conversions, review velocity, and page traffic, then surface the result in a homepage rail and a dedicated trending page.
+// Build progress: Task 299 of 1046
+// Date: April 21, 2025 5:51 PM
+// Run a focused bug triage session on viewer state desynchronization after rapid variant changes, fix the root cause, and add coverage so the regression does not reappear later.
 export const BUILD_PROGRESS = {
-  currentTask: 298,
+  currentTask: 299,
   totalTasks: 1046,
-  lastUpdate: '2025-04-21T18:28:00.000Z',
-  description: "Build the first trending score that combines saves, conversions, review velocity, and page traffic, then surface the result in a homepage rail and a dedicated trending page.",
+  lastUpdate: '2025-04-21T22:51:00.000Z',
+  description: "Run a focused bug triage session on viewer state desynchronization after rapid variant changes, fix the root cause, and add coverage so the regression does not reappear later.",
 }
