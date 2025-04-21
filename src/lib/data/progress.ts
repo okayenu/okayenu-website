@@ -1,9 +1,9 @@
-// Build progress: Task 294 of 1046
-// Date: April 18, 2025 5:59 PM
-// Build the first trending score that combines saves, conversions, review velocity, and page traffic, then surface the result in a homepage rail and a dedicated trending page.
+// Build progress: Task 295 of 1046
+// Date: April 21, 2025 8:51 AM
+// Implement a first-pass review affinity score that weighs sneaker size conversion and regional measurement systems so buyers can prioritize feedback from people with comparable shopping context.
 export const BUILD_PROGRESS = {
-  currentTask: 294,
+  currentTask: 295,
   totalTasks: 1046,
-  lastUpdate: '2025-04-18T22:59:00.000Z',
-  description: "Build the first trending score that combines saves, conversions, review velocity, and page traffic, then surface the result in a homepage rail and a dedicated trending page.",
+  lastUpdate: '2025-04-21T13:51:00.000Z',
+  description: "Implement a first-pass review affinity score that weighs sneaker size conversion and regional measurement systems so buyers can prioritize feedback from people with comparable shopping context.",
 }
