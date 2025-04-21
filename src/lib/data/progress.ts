@@ -1,9 +1,9 @@
-// Build progress: Task 296 of 1046
-// Date: April 21, 2025 9:16 AM
-// Rank reviews by relevance, recency, helpfulness, and demographic affinity, then expose clear explanations so users understand why certain reviews appear higher.
+// Build progress: Task 297 of 1046
+// Date: April 21, 2025 12:38 PM
+// Instrument video review clicks, watch completion, and bounce behavior and pipe them into a clean analytics schema that can feed both dashboards and future recommendation jobs.
 export const BUILD_PROGRESS = {
-  currentTask: 296,
+  currentTask: 297,
   totalTasks: 1046,
-  lastUpdate: '2025-04-21T14:16:00.000Z',
-  description: "Rank reviews by relevance, recency, helpfulness, and demographic affinity, then expose clear explanations so users understand why certain reviews appear higher.",
+  lastUpdate: '2025-04-21T17:38:00.000Z',
+  description: "Instrument video review clicks, watch completion, and bounce behavior and pipe them into a clean analytics schema that can feed both dashboards and future recommendation jobs.",
 }
