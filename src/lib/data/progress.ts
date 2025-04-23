@@ -1,9 +1,9 @@
-// Build progress: Task 307 of 1046
-// Date: April 23, 2025 5:18 PM
-// Rank reviews by relevance, recency, helpfulness, and demographic affinity, then expose clear explanations so users understand why certain reviews appear higher.
+// Build progress: Task 308 of 1046
+// Date: April 23, 2025 5:49 PM
+// Instrument session depth, dwell time, and collection engagement and pipe them into a clean analytics schema that can feed both dashboards and future recommendation jobs.
 export const BUILD_PROGRESS = {
-  currentTask: 307,
+  currentTask: 308,
   totalTasks: 1046,
-  lastUpdate: '2025-04-23T22:18:00.000Z',
-  description: "Rank reviews by relevance, recency, helpfulness, and demographic affinity, then expose clear explanations so users understand why certain reviews appear higher.",
+  lastUpdate: '2025-04-23T22:49:00.000Z',
+  description: "Instrument session depth, dwell time, and collection engagement and pipe them into a clean analytics schema that can feed both dashboards and future recommendation jobs.",
 }
