@@ -1,9 +1,9 @@
-// Build progress: Task 315 of 1046
-// Date: April 24, 2025 3:41 PM
-// Add analytics consent checks and event redaction rules so cart abandonment checkpoints and checkout hesitation moments can support recommendations without over-collecting personal data.
+// Build progress: Task 316 of 1046
+// Date: April 24, 2025 5:07 PM
+// Debug data quality issues in the recommendation pipeline by tracing malformed events, duplicated review votes, and stale profile fields back to their source screens.
 export const BUILD_PROGRESS = {
-  currentTask: 315,
+  currentTask: 316,
   totalTasks: 1046,
-  lastUpdate: '2025-04-24T20:41:00.000Z',
-  description: "Add analytics consent checks and event redaction rules so cart abandonment checkpoints and checkout hesitation moments can support recommendations without over-collecting personal data.",
+  lastUpdate: '2025-04-24T22:07:00.000Z',
+  description: "Debug data quality issues in the recommendation pipeline by tracing malformed events, duplicated review votes, and stale profile fields back to their source screens.",
 }
