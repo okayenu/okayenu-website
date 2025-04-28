@@ -1,9 +1,9 @@
-// Build progress: Task 328 of 1046
-// Date: April 28, 2025 12:41 PM
-// Instrument cart abandonment checkpoints and checkout hesitation moments and pipe them into a clean analytics schema that can feed both dashboards and future recommendation jobs.
+// Build progress: Task 329 of 1046
+// Date: April 28, 2025 1:27 PM
+// Build the first trending score that combines saves, conversions, review velocity, and page traffic, then surface the result in a homepage rail and a dedicated trending page.
 export const BUILD_PROGRESS = {
-  currentTask: 328,
+  currentTask: 329,
   totalTasks: 1046,
-  lastUpdate: '2025-04-28T17:41:00.000Z',
-  description: "Instrument cart abandonment checkpoints and checkout hesitation moments and pipe them into a clean analytics schema that can feed both dashboards and future recommendation jobs.",
+  lastUpdate: '2025-04-28T18:27:00.000Z',
+  description: "Build the first trending score that combines saves, conversions, review velocity, and page traffic, then surface the result in a homepage rail and a dedicated trending page.",
 }
