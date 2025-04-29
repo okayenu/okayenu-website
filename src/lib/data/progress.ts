@@ -1,9 +1,9 @@
-// Build progress: Task 333 of 1046
-// Date: April 29, 2025 9:33 AM
-// Create UI controls for spin, zoom, reset, hotspots, and fallback screenshots in the placeholder viewer, then tune them for devices with weaker GPUs.
+// Build progress: Task 334 of 1046
+// Date: April 29, 2025 12:08 PM
+// Add analytics consent checks and event redaction rules so cart abandonment checkpoints and checkout hesitation moments can support recommendations without over-collecting personal data.
 export const BUILD_PROGRESS = {
-  currentTask: 333,
+  currentTask: 334,
   totalTasks: 1046,
-  lastUpdate: '2025-04-29T14:33:00.000Z',
-  description: "Create UI controls for spin, zoom, reset, hotspots, and fallback screenshots in the placeholder viewer, then tune them for devices with weaker GPUs.",
+  lastUpdate: '2025-04-29T17:08:00.000Z',
+  description: "Add analytics consent checks and event redaction rules so cart abandonment checkpoints and checkout hesitation moments can support recommendations without over-collecting personal data.",
 }
