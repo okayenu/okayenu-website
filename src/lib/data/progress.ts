@@ -1,9 +1,9 @@
-// Build progress: Task 341 of 1046
-// Date: April 30, 2025 9:57 AM
-// Refine the review UI so affinity badges, fit summaries, and helpfulness prompts remain readable beside the placeholder 3D viewer and product media tabs.
+// Build progress: Task 342 of 1046
+// Date: April 30, 2025 10:43 AM
+// Implement a first-pass review affinity score that weighs sneaker size conversion and regional measurement systems so buyers can prioritize feedback from people with comparable shopping context.
 export const BUILD_PROGRESS = {
-  currentTask: 341,
+  currentTask: 342,
   totalTasks: 1046,
-  lastUpdate: '2025-04-30T14:57:00.000Z',
-  description: "Refine the review UI so affinity badges, fit summaries, and helpfulness prompts remain readable beside the placeholder 3D viewer and product media tabs.",
+  lastUpdate: '2025-04-30T15:43:00.000Z',
+  description: "Implement a first-pass review affinity score that weighs sneaker size conversion and regional measurement systems so buyers can prioritize feedback from people with comparable shopping context.",
 }
