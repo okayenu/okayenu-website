@@ -1,9 +1,9 @@
-// Build progress: Task 356 of 1046
-// Date: May 02, 2025 11:04 AM
-// Refine the review UI so affinity badges, fit summaries, and helpfulness prompts remain readable beside the placeholder 3D viewer and product media tabs.
+// Build progress: Task 357 of 1046
+// Date: May 02, 2025 11:26 AM
+// Implement a first-pass review affinity score that weighs fit preference, gender expression, and style intent so buyers can prioritize feedback from people with comparable shopping context.
 export const BUILD_PROGRESS = {
-  currentTask: 356,
+  currentTask: 357,
   totalTasks: 1046,
-  lastUpdate: '2025-05-02T16:04:00.000Z',
-  description: "Refine the review UI so affinity badges, fit summaries, and helpfulness prompts remain readable beside the placeholder 3D viewer and product media tabs.",
+  lastUpdate: '2025-05-02T16:26:00.000Z',
+  description: "Implement a first-pass review affinity score that weighs fit preference, gender expression, and style intent so buyers can prioritize feedback from people with comparable shopping context.",
 }
