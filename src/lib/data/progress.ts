@@ -1,9 +1,9 @@
-// Build progress: Task 364 of 1046
-// Date: May 05, 2025 8:09 AM
-// Instrument merchant storefront visits and seller follow actions and pipe them into a clean analytics schema that can feed both dashboards and future recommendation jobs.
+// Build progress: Task 365 of 1046
+// Date: May 05, 2025 9:11 AM
+// Build the first trending score that combines saves, conversions, review velocity, and page traffic, then surface the result in a homepage rail and a dedicated trending page.
 export const BUILD_PROGRESS = {
-  currentTask: 364,
+  currentTask: 365,
   totalTasks: 1046,
-  lastUpdate: '2025-05-05T13:09:00.000Z',
-  description: "Instrument merchant storefront visits and seller follow actions and pipe them into a clean analytics schema that can feed both dashboards and future recommendation jobs.",
+  lastUpdate: '2025-05-05T14:11:00.000Z',
+  description: "Build the first trending score that combines saves, conversions, review velocity, and page traffic, then surface the result in a homepage rail and a dedicated trending page.",
 }
