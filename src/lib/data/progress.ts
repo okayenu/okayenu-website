@@ -1,9 +1,9 @@
-// Build progress: Task 374 of 1046
-// Date: May 06, 2025 6:48 PM
-// Benchmark placeholder 3D scene performance across mobile, tablet, and desktop breakpoints, then trim overdraw, texture waste, and unnecessary scene re-renders.
+// Build progress: Task 375 of 1046
+// Date: May 07, 2025 8:51 AM
+// Implement a first-pass review affinity score that weighs fit preference, gender expression, and style intent so buyers can prioritize feedback from people with comparable shopping context.
 export const BUILD_PROGRESS = {
-  currentTask: 374,
+  currentTask: 375,
   totalTasks: 1046,
-  lastUpdate: '2025-05-06T23:48:00.000Z',
-  description: "Benchmark placeholder 3D scene performance across mobile, tablet, and desktop breakpoints, then trim overdraw, texture waste, and unnecessary scene re-renders.",
+  lastUpdate: '2025-05-07T13:51:00.000Z',
+  description: "Implement a first-pass review affinity score that weighs fit preference, gender expression, and style intent so buyers can prioritize feedback from people with comparable shopping context.",
 }
