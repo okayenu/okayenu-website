@@ -1,9 +1,9 @@
-// Build progress: Task 382 of 1046
-// Date: May 07, 2025 3:58 PM
-// Create UI controls for spin, zoom, reset, hotspots, and fallback screenshots in the placeholder viewer, then tune them for devices with weaker GPUs.
+// Build progress: Task 383 of 1046
+// Date: May 07, 2025 5:57 PM
+// Run a focused bug triage session on viewer state desynchronization after rapid variant changes, fix the root cause, and add coverage so the regression does not reappear later.
 export const BUILD_PROGRESS = {
-  currentTask: 382,
+  currentTask: 383,
   totalTasks: 1046,
-  lastUpdate: '2025-05-07T20:58:00.000Z',
-  description: "Create UI controls for spin, zoom, reset, hotspots, and fallback screenshots in the placeholder viewer, then tune them for devices with weaker GPUs.",
+  lastUpdate: '2025-05-07T22:57:00.000Z',
+  description: "Run a focused bug triage session on viewer state desynchronization after rapid variant changes, fix the root cause, and add coverage so the regression does not reappear later.",
 }
