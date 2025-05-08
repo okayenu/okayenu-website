@@ -1,9 +1,9 @@
-// Build progress: Task 389 of 1046
-// Date: May 08, 2025 1:27 PM
-// Benchmark placeholder 3D scene performance across mobile, tablet, and desktop breakpoints, then trim overdraw, texture waste, and unnecessary scene re-renders.
+// Build progress: Task 390 of 1046
+// Date: May 08, 2025 2:07 PM
+// Refine the review UI so affinity badges, fit summaries, and helpfulness prompts remain readable beside the placeholder 3D viewer and product media tabs.
 export const BUILD_PROGRESS = {
-  currentTask: 389,
+  currentTask: 390,
   totalTasks: 1046,
-  lastUpdate: '2025-05-08T18:27:00.000Z',
-  description: "Benchmark placeholder 3D scene performance across mobile, tablet, and desktop breakpoints, then trim overdraw, texture waste, and unnecessary scene re-renders.",
+  lastUpdate: '2025-05-08T19:07:00.000Z',
+  description: "Refine the review UI so affinity badges, fit summaries, and helpfulness prompts remain readable beside the placeholder 3D viewer and product media tabs.",
 }
