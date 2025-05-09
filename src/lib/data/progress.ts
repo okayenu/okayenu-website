@@ -1,9 +1,9 @@
-// Build progress: Task 394 of 1046
-// Date: May 09, 2025 11:47 AM
-// Implement a first-pass review affinity score that weighs sneaker size conversion and regional measurement systems so buyers can prioritize feedback from people with comparable shopping context.
+// Build progress: Task 395 of 1046
+// Date: May 09, 2025 4:02 PM
+// Rank reviews by relevance, recency, helpfulness, and demographic affinity, then expose clear explanations so users understand why certain reviews appear higher.
 export const BUILD_PROGRESS = {
-  currentTask: 394,
+  currentTask: 395,
   totalTasks: 1046,
-  lastUpdate: '2025-05-09T16:47:00.000Z',
-  description: "Implement a first-pass review affinity score that weighs sneaker size conversion and regional measurement systems so buyers can prioritize feedback from people with comparable shopping context.",
+  lastUpdate: '2025-05-09T21:02:00.000Z',
+  description: "Rank reviews by relevance, recency, helpfulness, and demographic affinity, then expose clear explanations so users understand why certain reviews appear higher.",
 }
