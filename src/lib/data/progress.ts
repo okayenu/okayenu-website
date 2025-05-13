@@ -1,9 +1,9 @@
-// Build progress: Task 405 of 1046
-// Date: May 12, 2025 7:28 PM
-// Refine the review UI so affinity badges, fit summaries, and helpfulness prompts remain readable beside the placeholder 3D viewer and product media tabs.
+// Build progress: Task 406 of 1046
+// Date: May 13, 2025 8:16 AM
+// Add analytics consent checks and event redaction rules so cart abandonment checkpoints and checkout hesitation moments can support recommendations without over-collecting personal data.
 export const BUILD_PROGRESS = {
-  currentTask: 405,
+  currentTask: 406,
   totalTasks: 1046,
-  lastUpdate: '2025-05-13T00:28:00.000Z',
-  description: "Refine the review UI so affinity badges, fit summaries, and helpfulness prompts remain readable beside the placeholder 3D viewer and product media tabs.",
+  lastUpdate: '2025-05-13T13:16:00.000Z',
+  description: "Add analytics consent checks and event redaction rules so cart abandonment checkpoints and checkout hesitation moments can support recommendations without over-collecting personal data.",
 }
