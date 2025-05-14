@@ -1,9 +1,9 @@
-// Build progress: Task 413 of 1046
-// Date: May 13, 2025 4:59 PM
-// Run a focused bug triage session on reverse image uploads failing on large files or weak networks, fix the root cause, and add coverage so the regression does not reappear later.
+// Build progress: Task 414 of 1046
+// Date: May 14, 2025 8:14 AM
+// Rank reviews by relevance, recency, helpfulness, and demographic affinity, then expose clear explanations so users understand why certain reviews appear higher.
 export const BUILD_PROGRESS = {
-  currentTask: 413,
+  currentTask: 414,
   totalTasks: 1046,
-  lastUpdate: '2025-05-13T21:59:00.000Z',
-  description: "Run a focused bug triage session on reverse image uploads failing on large files or weak networks, fix the root cause, and add coverage so the regression does not reappear later.",
+  lastUpdate: '2025-05-14T13:14:00.000Z',
+  description: "Rank reviews by relevance, recency, helpfulness, and demographic affinity, then expose clear explanations so users understand why certain reviews appear higher.",
 }
