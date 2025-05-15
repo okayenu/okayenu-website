@@ -1,9 +1,9 @@
-// Build progress: Task 423 of 1046
-// Date: May 15, 2025 12:29 PM
-// Add analytics consent checks and event redaction rules so review helpfulness votes and profile affinity signals can support recommendations without over-collecting personal data.
+// Build progress: Task 424 of 1046
+// Date: May 15, 2025 1:44 PM
+// Debug data quality issues in the recommendation pipeline by tracing malformed events, duplicated review votes, and stale profile fields back to their source screens.
 export const BUILD_PROGRESS = {
-  currentTask: 423,
+  currentTask: 424,
   totalTasks: 1046,
-  lastUpdate: '2025-05-15T17:29:00.000Z',
-  description: "Add analytics consent checks and event redaction rules so review helpfulness votes and profile affinity signals can support recommendations without over-collecting personal data.",
+  lastUpdate: '2025-05-15T18:44:00.000Z',
+  description: "Debug data quality issues in the recommendation pipeline by tracing malformed events, duplicated review votes, and stale profile fields back to their source screens.",
 }
