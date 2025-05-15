@@ -1,9 +1,9 @@
-// Build progress: Task 422 of 1046
-// Date: May 15, 2025 11:02 AM
-// Create UI controls for spin, zoom, reset, hotspots, and fallback screenshots in the placeholder viewer, then tune them for devices with weaker GPUs.
+// Build progress: Task 423 of 1046
+// Date: May 15, 2025 12:29 PM
+// Add analytics consent checks and event redaction rules so review helpfulness votes and profile affinity signals can support recommendations without over-collecting personal data.
 export const BUILD_PROGRESS = {
-  currentTask: 422,
+  currentTask: 423,
   totalTasks: 1046,
-  lastUpdate: '2025-05-15T16:02:00.000Z',
-  description: "Create UI controls for spin, zoom, reset, hotspots, and fallback screenshots in the placeholder viewer, then tune them for devices with weaker GPUs.",
+  lastUpdate: '2025-05-15T17:29:00.000Z',
+  description: "Add analytics consent checks and event redaction rules so review helpfulness votes and profile affinity signals can support recommendations without over-collecting personal data.",
 }
