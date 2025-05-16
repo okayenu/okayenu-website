@@ -1,9 +1,9 @@
-// Build progress: Task 429 of 1046
-// Date: May 15, 2025 5:28 PM
-// Run a focused bug triage session on viewer state desynchronization after rapid variant changes, fix the root cause, and add coverage so the regression does not reappear later.
+// Build progress: Task 430 of 1046
+// Date: May 16, 2025 8:04 AM
+// Refine the review UI so affinity badges, fit summaries, and helpfulness prompts remain readable beside the placeholder 3D viewer and product media tabs.
 export const BUILD_PROGRESS = {
-  currentTask: 429,
+  currentTask: 430,
   totalTasks: 1046,
-  lastUpdate: '2025-05-15T22:28:00.000Z',
-  description: "Run a focused bug triage session on viewer state desynchronization after rapid variant changes, fix the root cause, and add coverage so the regression does not reappear later.",
+  lastUpdate: '2025-05-16T13:04:00.000Z',
+  description: "Refine the review UI so affinity badges, fit summaries, and helpfulness prompts remain readable beside the placeholder 3D viewer and product media tabs.",
 }
