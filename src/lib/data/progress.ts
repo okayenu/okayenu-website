@@ -1,9 +1,9 @@
-// Build progress: Task 455 of 1046
-// Date: May 21, 2025 8:06 AM
-// Implement seller-side collection curation tools so merchants can feature launches, editorial bundles, and trending picks inside their storefronts.
+// Build progress: Task 456 of 1046
+// Date: May 21, 2025 9:18 AM
+// Debug the handoff between merchant product edits and storefront caching so newly approved 3D assets appear quickly without corrupting older snapshots.
 export const BUILD_PROGRESS = {
-  currentTask: 455,
+  currentTask: 456,
   totalTasks: 1046,
-  lastUpdate: '2025-05-21T13:06:00.000Z',
-  description: "Implement seller-side collection curation tools so merchants can feature launches, editorial bundles, and trending picks inside their storefronts.",
+  lastUpdate: '2025-05-21T14:18:00.000Z',
+  description: "Debug the handoff between merchant product edits and storefront caching so newly approved 3D assets appear quickly without corrupting older snapshots.",
 }
