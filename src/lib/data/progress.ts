@@ -1,9 +1,9 @@
-// Build progress: Task 457 of 1046
-// Date: May 21, 2025 10:32 AM
-// Prepare the asset migration plan from placeholder garments to SKU-to-model bindings for size and color permutations by defining import validation, file naming, and rollback steps.
+// Build progress: Task 458 of 1046
+// Date: May 21, 2025 11:53 AM
+// Replace one placeholder collection with compressed KTX2 textures and optimized normal maps and verify the product detail payload still maps images, videos, and 3D models coherently.
 export const BUILD_PROGRESS = {
-  currentTask: 457,
+  currentTask: 458,
   totalTasks: 1046,
-  lastUpdate: '2025-05-21T15:32:00.000Z',
-  description: "Prepare the asset migration plan from placeholder garments to SKU-to-model bindings for size and color permutations by defining import validation, file naming, and rollback steps.",
+  lastUpdate: '2025-05-21T16:53:00.000Z',
+  description: "Replace one placeholder collection with compressed KTX2 textures and optimized normal maps and verify the product detail payload still maps images, videos, and 3D models coherently.",
 }
