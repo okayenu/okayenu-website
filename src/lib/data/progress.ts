@@ -1,9 +1,9 @@
-// Build progress: Task 461 of 1046
-// Date: May 21, 2025 2:17 PM
-// Map SKUs, colorways, and size variants to the new asset bundle and make sure fallback placeholder imagery still appears when a production mesh or placeholder fallback is missing.
+// Build progress: Task 462 of 1046
+// Date: May 21, 2025 3:38 PM
+// Scaffold the merchant dashboard around inventory upload, variant editing, and media attachment tooling and keep the permissions model strict enough for future staff roles.
 export const BUILD_PROGRESS = {
-  currentTask: 461,
+  currentTask: 462,
   totalTasks: 1046,
-  lastUpdate: '2025-05-21T19:17:00.000Z',
-  description: "Map SKUs, colorways, and size variants to the new asset bundle and make sure fallback placeholder imagery still appears when a production mesh or placeholder fallback is missing.",
+  lastUpdate: '2025-05-21T20:38:00.000Z',
+  description: "Scaffold the merchant dashboard around inventory upload, variant editing, and media attachment tooling and keep the permissions model strict enough for future staff roles.",
 }
