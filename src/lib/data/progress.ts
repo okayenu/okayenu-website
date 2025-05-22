@@ -1,9 +1,9 @@
-// Build progress: Task 462 of 1046
-// Date: May 21, 2025 3:38 PM
-// Scaffold the merchant dashboard around inventory upload, variant editing, and media attachment tooling and keep the permissions model strict enough for future staff roles.
+// Build progress: Task 463 of 1046
+// Date: May 21, 2025 7:03 PM
+// Build business account onboarding with document capture, storefront profile setup, and approval states so advanced users can graduate into merchants cleanly.
 export const BUILD_PROGRESS = {
-  currentTask: 462,
+  currentTask: 463,
   totalTasks: 1046,
-  lastUpdate: '2025-05-21T20:38:00.000Z',
-  description: "Scaffold the merchant dashboard around inventory upload, variant editing, and media attachment tooling and keep the permissions model strict enough for future staff roles.",
+  lastUpdate: '2025-05-22T00:03:00.000Z',
+  description: "Build business account onboarding with document capture, storefront profile setup, and approval states so advanced users can graduate into merchants cleanly.",
 }
