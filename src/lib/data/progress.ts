@@ -1,9 +1,9 @@
-// Build progress: Task 481 of 1046
-// Date: May 23, 2025 6:53 PM
-// Run a focused bug triage session on viewer state desynchronization after rapid variant changes, fix the root cause, and add coverage so the regression does not reappear later.
+// Build progress: Task 482 of 1046
+// Date: May 27, 2025 12:01 PM
+// Replace one placeholder collection with LOD variants for mobile, tablet, and desktop rendering budgets and verify the product detail payload still maps images, videos, and 3D models coherently.
 export const BUILD_PROGRESS = {
-  currentTask: 481,
+  currentTask: 482,
   totalTasks: 1046,
-  lastUpdate: '2025-05-23T23:53:00.000Z',
-  description: "Run a focused bug triage session on viewer state desynchronization after rapid variant changes, fix the root cause, and add coverage so the regression does not reappear later.",
+  lastUpdate: '2025-05-27T17:01:00.000Z',
+  description: "Replace one placeholder collection with LOD variants for mobile, tablet, and desktop rendering budgets and verify the product detail payload still maps images, videos, and 3D models coherently.",
 }
