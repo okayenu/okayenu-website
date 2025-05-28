@@ -1,9 +1,9 @@
-// Build progress: Task 489 of 1046
-// Date: May 28, 2025 12:08 PM
-// Run regression tests after the real-asset swap and fix clipping, texture seams, or loading regressions introduced by compressed KTX2 textures and optimized normal maps.
+// Build progress: Task 490 of 1046
+// Date: May 28, 2025 12:59 PM
+// Profile the viewer after real asset ingestion and patch long frame times caused by oversized textures, too many draw calls, or variant switching memory leaks.
 export const BUILD_PROGRESS = {
-  currentTask: 489,
+  currentTask: 490,
   totalTasks: 1046,
-  lastUpdate: '2025-05-28T17:08:00.000Z',
-  description: "Run regression tests after the real-asset swap and fix clipping, texture seams, or loading regressions introduced by compressed KTX2 textures and optimized normal maps.",
+  lastUpdate: '2025-05-28T17:59:00.000Z',
+  description: "Profile the viewer after real asset ingestion and patch long frame times caused by oversized textures, too many draw calls, or variant switching memory leaks.",
 }
