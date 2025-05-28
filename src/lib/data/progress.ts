@@ -1,9 +1,9 @@
-// Build progress: Task 492 of 1046
-// Date: May 28, 2025 3:13 PM
-// Debug the handoff between merchant product edits and storefront caching so newly approved 3D assets appear quickly without corrupting older snapshots.
+// Build progress: Task 493 of 1046
+// Date: May 28, 2025 3:46 PM
+// Prepare the asset migration plan from placeholder garments to SKU-to-model bindings for size and color permutations by defining import validation, file naming, and rollback steps.
 export const BUILD_PROGRESS = {
-  currentTask: 492,
+  currentTask: 493,
   totalTasks: 1046,
-  lastUpdate: '2025-05-28T20:13:00.000Z',
-  description: "Debug the handoff between merchant product edits and storefront caching so newly approved 3D assets appear quickly without corrupting older snapshots.",
+  lastUpdate: '2025-05-28T20:46:00.000Z',
+  description: "Prepare the asset migration plan from placeholder garments to SKU-to-model bindings for size and color permutations by defining import validation, file naming, and rollback steps.",
 }
