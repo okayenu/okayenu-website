@@ -1,9 +1,9 @@
-// Build progress: Task 509 of 1046
-// Date: May 30, 2025 12:26 PM
-// Build business account onboarding with document capture, storefront profile setup, and approval states so advanced users can graduate into merchants cleanly.
+// Build progress: Task 510 of 1046
+// Date: May 30, 2025 1:08 PM
+// Add moderation and QA tools for uploaded merchant media so bad meshes, broken textures, and misleading product videos are caught before publication.
 export const BUILD_PROGRESS = {
-  currentTask: 509,
+  currentTask: 510,
   totalTasks: 1046,
-  lastUpdate: '2025-05-30T17:26:00.000Z',
-  description: "Build business account onboarding with document capture, storefront profile setup, and approval states so advanced users can graduate into merchants cleanly.",
+  lastUpdate: '2025-05-30T18:08:00.000Z',
+  description: "Add moderation and QA tools for uploaded merchant media so bad meshes, broken textures, and misleading product videos are caught before publication.",
 }
