@@ -1,9 +1,9 @@
-// Build progress: Task 505 of 1046
-// Date: May 29, 2025 6:02 PM
-// Add moderation and QA tools for uploaded merchant media so bad meshes, broken textures, and misleading product videos are caught before publication.
+// Build progress: Task 506 of 1046
+// Date: May 29, 2025 7:13 PM
+// Run regression tests after the real-asset swap and fix clipping, texture seams, or loading regressions introduced by compressed KTX2 textures and optimized normal maps.
 export const BUILD_PROGRESS = {
-  currentTask: 505,
+  currentTask: 506,
   totalTasks: 1046,
-  lastUpdate: '2025-05-29T23:02:00.000Z',
-  description: "Add moderation and QA tools for uploaded merchant media so bad meshes, broken textures, and misleading product videos are caught before publication.",
+  lastUpdate: '2025-05-30T00:13:00.000Z',
+  description: "Run regression tests after the real-asset swap and fix clipping, texture seams, or loading regressions introduced by compressed KTX2 textures and optimized normal maps.",
 }
