@@ -1,9 +1,9 @@
-// Build progress: Task 520 of 1046
-// Date: June 02, 2025 12:42 PM
-// Prepare the asset migration plan from placeholder garments to SKU-to-model bindings for size and color permutations by defining import validation, file naming, and rollback steps.
+// Build progress: Task 521 of 1046
+// Date: June 02, 2025 2:21 PM
+// Replace one placeholder collection with production GLB garments from the asset team and verify the product detail payload still maps images, videos, and 3D models coherently.
 export const BUILD_PROGRESS = {
-  currentTask: 520,
+  currentTask: 521,
   totalTasks: 1046,
-  lastUpdate: '2025-06-02T17:42:00.000Z',
-  description: "Prepare the asset migration plan from placeholder garments to SKU-to-model bindings for size and color permutations by defining import validation, file naming, and rollback steps.",
+  lastUpdate: '2025-06-02T19:21:00.000Z',
+  description: "Replace one placeholder collection with production GLB garments from the asset team and verify the product detail payload still maps images, videos, and 3D models coherently.",
 }
