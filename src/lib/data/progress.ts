@@ -1,9 +1,9 @@
-// Build progress: Task 517 of 1046
-// Date: June 02, 2025 8:09 AM
-// Profile the viewer after real asset ingestion and patch long frame times caused by oversized textures, too many draw calls, or variant switching memory leaks. Confirm the work still behaves correctly after the swap from placeholder assets to production-grade 3D files.
+// Build progress: Task 518 of 1046
+// Date: June 02, 2025 9:28 AM
+// Implement seller-side collection curation tools so merchants can feature launches, editorial bundles, and trending picks inside their storefronts.
 export const BUILD_PROGRESS = {
-  currentTask: 517,
+  currentTask: 518,
   totalTasks: 1046,
-  lastUpdate: '2025-06-02T13:09:00.000Z',
-  description: "Profile the viewer after real asset ingestion and patch long frame times caused by oversized textures, too many draw calls, or variant switching memory leaks. Confirm the work still behaves correctly after the swap from placeholder assets to production-grade 3D files.",
+  lastUpdate: '2025-06-02T14:28:00.000Z',
+  description: "Implement seller-side collection curation tools so merchants can feature launches, editorial bundles, and trending picks inside their storefronts.",
 }
