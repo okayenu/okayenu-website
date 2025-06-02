@@ -1,9 +1,9 @@
-// Build progress: Task 521 of 1046
-// Date: June 02, 2025 2:21 PM
-// Replace one placeholder collection with production GLB garments from the asset team and verify the product detail payload still maps images, videos, and 3D models coherently.
+// Build progress: Task 522 of 1046
+// Date: June 02, 2025 4:43 PM
+// Tune lighting, exposure, and camera presets so real garment materials read convincingly without making the checkout or catalog pages feel visually inconsistent.
 export const BUILD_PROGRESS = {
-  currentTask: 521,
+  currentTask: 522,
   totalTasks: 1046,
-  lastUpdate: '2025-06-02T19:21:00.000Z',
-  description: "Replace one placeholder collection with production GLB garments from the asset team and verify the product detail payload still maps images, videos, and 3D models coherently.",
+  lastUpdate: '2025-06-02T21:43:00.000Z',
+  description: "Tune lighting, exposure, and camera presets so real garment materials read convincingly without making the checkout or catalog pages feel visually inconsistent.",
 }
