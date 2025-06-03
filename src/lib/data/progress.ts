@@ -1,9 +1,9 @@
-// Build progress: Task 529 of 1046
-// Date: June 03, 2025 1:44 PM
-// Map SKUs, colorways, and size variants to the new asset bundle and make sure fallback placeholder imagery still appears when a production mesh is missing.
+// Build progress: Task 530 of 1046
+// Date: June 03, 2025 2:13 PM
+// Scaffold the merchant dashboard around policy settings for shipping promises and return windows and keep the permissions model strict enough for future staff roles.
 export const BUILD_PROGRESS = {
-  currentTask: 529,
+  currentTask: 530,
   totalTasks: 1046,
-  lastUpdate: '2025-06-03T18:44:00.000Z',
-  description: "Map SKUs, colorways, and size variants to the new asset bundle and make sure fallback placeholder imagery still appears when a production mesh is missing.",
+  lastUpdate: '2025-06-03T19:13:00.000Z',
+  description: "Scaffold the merchant dashboard around policy settings for shipping promises and return windows and keep the permissions model strict enough for future staff roles.",
 }
