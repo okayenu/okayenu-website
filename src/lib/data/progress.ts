@@ -1,9 +1,9 @@
-// Build progress: Task 543 of 1046
-// Date: June 04, 2025 3:46 PM
-// Replace one placeholder collection with animation clips for turntable spins and detail callouts and verify the product detail payload still maps images, videos, and 3D models coherently.
+// Build progress: Task 544 of 1046
+// Date: June 04, 2025 4:57 PM
+// Tune lighting, exposure, and camera presets so real garment materials read convincingly without making the checkout or catalog pages feel visually inconsistent.
 export const BUILD_PROGRESS = {
-  currentTask: 543,
+  currentTask: 544,
   totalTasks: 1046,
-  lastUpdate: '2025-06-04T20:46:00.000Z',
-  description: "Replace one placeholder collection with animation clips for turntable spins and detail callouts and verify the product detail payload still maps images, videos, and 3D models coherently.",
+  lastUpdate: '2025-06-04T21:57:00.000Z',
+  description: "Tune lighting, exposure, and camera presets so real garment materials read convincingly without making the checkout or catalog pages feel visually inconsistent.",
 }
