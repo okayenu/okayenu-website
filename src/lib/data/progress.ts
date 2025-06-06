@@ -1,9 +1,9 @@
-// Build progress: Task 557 of 1046
-// Date: June 06, 2025 8:17 AM
-// Scaffold the merchant dashboard around policy settings for shipping promises and return windows and keep the permissions model strict enough for future staff roles.
+// Build progress: Task 558 of 1046
+// Date: June 06, 2025 10:54 AM
+// Build business account onboarding with document capture, storefront profile setup, and approval states so advanced users can graduate into merchants cleanly.
 export const BUILD_PROGRESS = {
-  currentTask: 557,
+  currentTask: 558,
   totalTasks: 1046,
-  lastUpdate: '2025-06-06T13:17:00.000Z',
-  description: "Scaffold the merchant dashboard around policy settings for shipping promises and return windows and keep the permissions model strict enough for future staff roles.",
+  lastUpdate: '2025-06-06T15:54:00.000Z',
+  description: "Build business account onboarding with document capture, storefront profile setup, and approval states so advanced users can graduate into merchants cleanly.",
 }
