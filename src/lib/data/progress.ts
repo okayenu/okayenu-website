@@ -1,9 +1,9 @@
-// Build progress: Task 569 of 1046
-// Date: June 09, 2025 10:06 AM
-// Prepare the asset migration plan from placeholder garments to compressed KTX2 textures and optimized normal maps by defining import validation, file naming, and rollback steps.
+// Build progress: Task 570 of 1046
+// Date: June 09, 2025 10:28 AM
+// Replace one placeholder collection with compressed KTX2 textures and optimized normal maps and verify the product detail payload still maps images, videos, and 3D models coherently.
 export const BUILD_PROGRESS = {
-  currentTask: 569,
+  currentTask: 570,
   totalTasks: 1046,
-  lastUpdate: '2025-06-09T15:06:00.000Z',
-  description: "Prepare the asset migration plan from placeholder garments to compressed KTX2 textures and optimized normal maps by defining import validation, file naming, and rollback steps.",
+  lastUpdate: '2025-06-09T15:28:00.000Z',
+  description: "Replace one placeholder collection with compressed KTX2 textures and optimized normal maps and verify the product detail payload still maps images, videos, and 3D models coherently.",
 }
