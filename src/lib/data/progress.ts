@@ -1,9 +1,9 @@
-// Build progress: Task 568 of 1046
-// Date: June 09, 2025 9:21 AM
-// Debug the handoff between merchant product edits and storefront caching so newly approved 3D assets appear quickly without corrupting older snapshots.
+// Build progress: Task 569 of 1046
+// Date: June 09, 2025 10:06 AM
+// Prepare the asset migration plan from placeholder garments to compressed KTX2 textures and optimized normal maps by defining import validation, file naming, and rollback steps.
 export const BUILD_PROGRESS = {
-  currentTask: 568,
+  currentTask: 569,
   totalTasks: 1046,
-  lastUpdate: '2025-06-09T14:21:00.000Z',
-  description: "Debug the handoff between merchant product edits and storefront caching so newly approved 3D assets appear quickly without corrupting older snapshots.",
+  lastUpdate: '2025-06-09T15:06:00.000Z',
+  description: "Prepare the asset migration plan from placeholder garments to compressed KTX2 textures and optimized normal maps by defining import validation, file naming, and rollback steps.",
 }
