@@ -1,9 +1,9 @@
-// Build progress: Task 575 of 1046
-// Date: June 09, 2025 4:22 PM
-// Build business account onboarding with document capture, storefront profile setup, and approval states so advanced users can graduate into merchants cleanly.
+// Build progress: Task 576 of 1046
+// Date: June 09, 2025 5:46 PM
+// Run a focused bug triage session on reverse image uploads failing on large files or weak networks, fix the root cause, and add coverage so the regression does not reappear later.
 export const BUILD_PROGRESS = {
-  currentTask: 575,
+  currentTask: 576,
   totalTasks: 1046,
-  lastUpdate: '2025-06-09T21:22:00.000Z',
-  description: "Build business account onboarding with document capture, storefront profile setup, and approval states so advanced users can graduate into merchants cleanly.",
+  lastUpdate: '2025-06-09T22:46:00.000Z',
+  description: "Run a focused bug triage session on reverse image uploads failing on large files or weak networks, fix the root cause, and add coverage so the regression does not reappear later.",
 }
