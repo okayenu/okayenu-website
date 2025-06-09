@@ -1,9 +1,9 @@
-// Build progress: Task 572 of 1046
-// Date: June 09, 2025 12:43 PM
-// Implement model optimization steps for DRACO compression, texture packing, and lazy loading so mobile devices can still open the 3D viewer without stutter.
+// Build progress: Task 573 of 1046
+// Date: June 09, 2025 1:13 PM
+// Map SKUs, colorways, and size variants to the new asset bundle and make sure fallback placeholder imagery still appears when a production mesh is missing.
 export const BUILD_PROGRESS = {
-  currentTask: 572,
+  currentTask: 573,
   totalTasks: 1046,
-  lastUpdate: '2025-06-09T17:43:00.000Z',
-  description: "Implement model optimization steps for DRACO compression, texture packing, and lazy loading so mobile devices can still open the 3D viewer without stutter.",
+  lastUpdate: '2025-06-09T18:13:00.000Z',
+  description: "Map SKUs, colorways, and size variants to the new asset bundle and make sure fallback placeholder imagery still appears when a production mesh is missing.",
 }
