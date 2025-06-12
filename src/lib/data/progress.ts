@@ -1,9 +1,9 @@
-// Build progress: Task 604 of 1046
-// Date: June 12, 2025 3:48 PM
-// Translate free-text shuffle prompts into structured preference tokens, then debug edge cases where ambiguous words create poor outfit suggestions.
+// Build progress: Task 605 of 1046
+// Date: June 12, 2025 5:18 PM
+// Expand merchant tooling with inventory upload, variant editing, and media attachment tooling so sellers can react to trends and recommendation data from their own inventory.
 export const BUILD_PROGRESS = {
-  currentTask: 604,
+  currentTask: 605,
   totalTasks: 1046,
-  lastUpdate: '2025-06-12T20:48:00.000Z',
-  description: "Translate free-text shuffle prompts into structured preference tokens, then debug edge cases where ambiguous words create poor outfit suggestions.",
+  lastUpdate: '2025-06-12T22:18:00.000Z',
+  description: "Expand merchant tooling with inventory upload, variant editing, and media attachment tooling so sellers can react to trends and recommendation data from their own inventory.",
 }
