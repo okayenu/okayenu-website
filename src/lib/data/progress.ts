@@ -1,9 +1,9 @@
-// Build progress: Task 616 of 1046
-// Date: June 13, 2025 6:49 PM
-// Run a focused bug triage session on chat and social notifications arriving out of order, fix the root cause, and add coverage so the regression does not reappear later.
+// Build progress: Task 617 of 1046
+// Date: June 16, 2025 8:57 AM
+// Stress-test the chatbot against off-topic, unsafe, or biased prompts and tighten the refusal, escalation, and safe-redirection policies.
 export const BUILD_PROGRESS = {
-  currentTask: 616,
+  currentTask: 617,
   totalTasks: 1046,
-  lastUpdate: '2025-06-13T23:49:00.000Z',
-  description: "Run a focused bug triage session on chat and social notifications arriving out of order, fix the root cause, and add coverage so the regression does not reappear later.",
+  lastUpdate: '2025-06-16T13:57:00.000Z',
+  description: "Stress-test the chatbot against off-topic, unsafe, or biased prompts and tighten the refusal, escalation, and safe-redirection policies.",
 }
