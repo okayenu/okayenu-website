@@ -1,9 +1,9 @@
-// Build progress: Task 648 of 1046
-// Date: June 20, 2025 9:19 AM
-// Debug merchant dashboard analytics after AI features land, especially where new suggestion events inflate click metrics or distort conversion attribution.
+// Build progress: Task 649 of 1046
+// Date: June 20, 2025 10:27 AM
+// Design the chatbot system prompt, memory boundaries, and retrieval inputs for smart cart upsell prompts and accessory bundling logic so the assistant stays fashion-aware without overpromising.
 export const BUILD_PROGRESS = {
-  currentTask: 648,
+  currentTask: 649,
   totalTasks: 1046,
-  lastUpdate: '2025-06-20T14:19:00.000Z',
-  description: "Debug merchant dashboard analytics after AI features land, especially where new suggestion events inflate click metrics or distort conversion attribution.",
+  lastUpdate: '2025-06-20T15:27:00.000Z',
+  description: "Design the chatbot system prompt, memory boundaries, and retrieval inputs for smart cart upsell prompts and accessory bundling logic so the assistant stays fashion-aware without overpromising.",
 }
