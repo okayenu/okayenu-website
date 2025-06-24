@@ -1,9 +1,9 @@
-// Build progress: Task 666 of 1046
-// Date: June 23, 2025 7:26 PM
-// Design the chatbot system prompt, memory boundaries, and retrieval inputs for smart cart upsell prompts and accessory bundling logic so the assistant stays fashion-aware without overpromising.
+// Build progress: Task 667 of 1046
+// Date: June 24, 2025 9:32 AM
+// Build admin review tools for merchant-generated copy suggestions so AI-assisted storefront content cannot publish without quality checks. Confirm the work still behaves correctly after the swap from placeholder assets to production-grade 3D files.
 export const BUILD_PROGRESS = {
-  currentTask: 666,
+  currentTask: 667,
   totalTasks: 1046,
-  lastUpdate: '2025-06-24T00:26:00.000Z',
-  description: "Design the chatbot system prompt, memory boundaries, and retrieval inputs for smart cart upsell prompts and accessory bundling logic so the assistant stays fashion-aware without overpromising.",
+  lastUpdate: '2025-06-24T14:32:00.000Z',
+  description: "Build admin review tools for merchant-generated copy suggestions so AI-assisted storefront content cannot publish without quality checks. Confirm the work still behaves correctly after the swap from placeholder assets to production-grade 3D files.",
 }
