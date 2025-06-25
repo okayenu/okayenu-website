@@ -1,9 +1,9 @@
-// Build progress: Task 682 of 1046
-// Date: June 25, 2025 3:07 PM
-// Capture accepted, dismissed, and ignored AI suggestions as feedback signals, then feed them back into recommendation tuning without harming privacy guarantees.
+// Build progress: Task 683 of 1046
+// Date: June 25, 2025 4:11 PM
+// Stress-test the chatbot against off-topic, unsafe, or biased prompts and tighten the refusal, escalation, and safe-redirection policies.
 export const BUILD_PROGRESS = {
-  currentTask: 682,
+  currentTask: 683,
   totalTasks: 1046,
-  lastUpdate: '2025-06-25T20:07:00.000Z',
-  description: "Capture accepted, dismissed, and ignored AI suggestions as feedback signals, then feed them back into recommendation tuning without harming privacy guarantees.",
+  lastUpdate: '2025-06-25T21:11:00.000Z',
+  description: "Stress-test the chatbot against off-topic, unsafe, or biased prompts and tighten the refusal, escalation, and safe-redirection policies.",
 }
