@@ -1,9 +1,9 @@
-// Build progress: Task 686 of 1046
-// Date: June 25, 2025 6:24 PM
-// Refine recommendation explanations so shoppers can tell whether an item was suggested because of chat input, browsing behavior, demographic review affinity, or cart context.
+// Build progress: Task 687 of 1046
+// Date: June 26, 2025 8:24 AM
+// Capture accepted, dismissed, and ignored AI suggestions as feedback signals, then feed them back into recommendation tuning without harming privacy guarantees.
 export const BUILD_PROGRESS = {
-  currentTask: 686,
+  currentTask: 687,
   totalTasks: 1046,
-  lastUpdate: '2025-06-25T23:24:00.000Z',
-  description: "Refine recommendation explanations so shoppers can tell whether an item was suggested because of chat input, browsing behavior, demographic review affinity, or cart context.",
+  lastUpdate: '2025-06-26T13:24:00.000Z',
+  description: "Capture accepted, dismissed, and ignored AI suggestions as feedback signals, then feed them back into recommendation tuning without harming privacy guarantees.",
 }
