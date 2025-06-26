@@ -1,9 +1,9 @@
-// Build progress: Task 690 of 1046
-// Date: June 26, 2025 11:24 AM
-// Profile response latency across the chat assistant, shuffle mode, and smart-cart panels, then trim slow retrieval calls or oversized prompt payloads.
+// Build progress: Task 691 of 1046
+// Date: June 26, 2025 12:03 PM
+// Refine recommendation explanations so shoppers can tell whether an item was suggested because of chat input, browsing behavior, demographic review affinity, or cart context.
 export const BUILD_PROGRESS = {
-  currentTask: 690,
+  currentTask: 691,
   totalTasks: 1046,
-  lastUpdate: '2025-06-26T16:24:00.000Z',
-  description: "Profile response latency across the chat assistant, shuffle mode, and smart-cart panels, then trim slow retrieval calls or oversized prompt payloads.",
+  lastUpdate: '2025-06-26T17:03:00.000Z',
+  description: "Refine recommendation explanations so shoppers can tell whether an item was suggested because of chat input, browsing behavior, demographic review affinity, or cart context.",
 }
