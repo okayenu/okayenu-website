@@ -1,9 +1,9 @@
-// Build progress: Task 713 of 1046
-// Date: June 30, 2025 3:03 PM
-// Refine recommendation explanations so shoppers can tell whether an item was suggested because of chat input, browsing behavior, demographic review affinity, or cart context.
+// Build progress: Task 714 of 1046
+// Date: June 30, 2025 3:57 PM
+// Debug merchant dashboard analytics after AI features land, especially where new suggestion events inflate click metrics or distort conversion attribution.
 export const BUILD_PROGRESS = {
-  currentTask: 713,
+  currentTask: 714,
   totalTasks: 1046,
-  lastUpdate: '2025-06-30T20:03:00.000Z',
-  description: "Refine recommendation explanations so shoppers can tell whether an item was suggested because of chat input, browsing behavior, demographic review affinity, or cart context.",
+  lastUpdate: '2025-06-30T20:57:00.000Z',
+  description: "Debug merchant dashboard analytics after AI features land, especially where new suggestion events inflate click metrics or distort conversion attribution.",
 }
