@@ -1,9 +1,9 @@
-// Build progress: Task 720 of 1046
-// Date: July 01, 2025 11:46 AM
-// Design the chatbot system prompt, memory boundaries, and retrieval inputs for smart cart upsell prompts and accessory bundling logic so the assistant stays fashion-aware without overpromising.
+// Build progress: Task 721 of 1046
+// Date: July 01, 2025 1:58 PM
+// Build the chat experience on product, cart, and account screens, then decide how preference updates should write back into recommendation signals without surprising users.
 export const BUILD_PROGRESS = {
-  currentTask: 720,
+  currentTask: 721,
   totalTasks: 1046,
-  lastUpdate: '2025-07-01T16:46:00.000Z',
-  description: "Design the chatbot system prompt, memory boundaries, and retrieval inputs for smart cart upsell prompts and accessory bundling logic so the assistant stays fashion-aware without overpromising.",
+  lastUpdate: '2025-07-01T18:58:00.000Z',
+  description: "Build the chat experience on product, cart, and account screens, then decide how preference updates should write back into recommendation signals without surprising users.",
 }
