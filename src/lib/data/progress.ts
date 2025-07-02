@@ -1,9 +1,9 @@
-// Build progress: Task 732 of 1046
-// Date: July 02, 2025 2:07 PM
-// Stress-test the chatbot against off-topic, unsafe, or biased prompts and tighten the refusal, escalation, and safe-redirection policies.
+// Build progress: Task 733 of 1046
+// Date: July 02, 2025 2:42 PM
+// Build admin review tools for merchant-generated copy suggestions so AI-assisted storefront content cannot publish without quality checks.
 export const BUILD_PROGRESS = {
-  currentTask: 732,
+  currentTask: 733,
   totalTasks: 1046,
-  lastUpdate: '2025-07-02T19:07:00.000Z',
-  description: "Stress-test the chatbot against off-topic, unsafe, or biased prompts and tighten the refusal, escalation, and safe-redirection policies.",
+  lastUpdate: '2025-07-02T19:42:00.000Z',
+  description: "Build admin review tools for merchant-generated copy suggestions so AI-assisted storefront content cannot publish without quality checks.",
 }
