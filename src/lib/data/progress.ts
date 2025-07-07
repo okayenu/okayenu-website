@@ -1,9 +1,9 @@
-// Build progress: Task 754 of 1046
-// Date: July 07, 2025 3:49 PM
-// Implement saved address, payment token, and default shipping preference storage so repeat buyers can complete orders with minimal form entry.
+// Build progress: Task 755 of 1046
+// Date: July 07, 2025 4:16 PM
+// Wire the checkout summary, tax calculation, coupon application, and shipping-rate refresh flow so changes remain consistent across desktop and small-screen layouts.
 export const BUILD_PROGRESS = {
-  currentTask: 754,
+  currentTask: 755,
   totalTasks: 1046,
-  lastUpdate: '2025-07-07T20:49:00.000Z',
-  description: "Implement saved address, payment token, and default shipping preference storage so repeat buyers can complete orders with minimal form entry.",
+  lastUpdate: '2025-07-07T21:16:00.000Z',
+  description: "Wire the checkout summary, tax calculation, coupon application, and shipping-rate refresh flow so changes remain consistent across desktop and small-screen layouts.",
 }
