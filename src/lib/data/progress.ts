@@ -1,9 +1,9 @@
-// Build progress: Task 757 of 1046
-// Date: July 08, 2025 11:14 AM
-// Expand automated coverage around wallet checkout, retryable payment errors, and delayed carrier webhooks to keep the fastest path stable as more features pile on. Confirm the work still behaves correctly after the swap from placeholder assets to production-grade 3D files.
+// Build progress: Task 758 of 1046
+// Date: July 08, 2025 11:58 AM
+// Design the one-click checkout architecture for wallet support, express payment buttons, and retry flows while keeping explicit fallback steps for first-time buyers and failed wallet authorizations.
 export const BUILD_PROGRESS = {
-  currentTask: 757,
+  currentTask: 758,
   totalTasks: 1046,
-  lastUpdate: '2025-07-08T16:14:00.000Z',
-  description: "Expand automated coverage around wallet checkout, retryable payment errors, and delayed carrier webhooks to keep the fastest path stable as more features pile on. Confirm the work still behaves correctly after the swap from placeholder assets to production-grade 3D files.",
+  lastUpdate: '2025-07-08T16:58:00.000Z',
+  description: "Design the one-click checkout architecture for wallet support, express payment buttons, and retry flows while keeping explicit fallback steps for first-time buyers and failed wallet authorizations.",
 }
