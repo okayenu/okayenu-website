@@ -1,9 +1,9 @@
-// Build progress: Task 787 of 1046
-// Date: July 11, 2025 8:52 AM
-// Wire the checkout summary, tax calculation, coupon application, and shipping-rate refresh flow so changes remain consistent across desktop and small-screen layouts. Confirm the work still behaves correctly after the swap from placeholder assets to production-grade 3D files.
+// Build progress: Task 788 of 1046
+// Date: July 11, 2025 10:24 AM
+// Build the order creation pipeline, reserve inventory before capture, and define how payment-provider webhooks reconcile delayed or duplicated status changes.
 export const BUILD_PROGRESS = {
-  currentTask: 787,
+  currentTask: 788,
   totalTasks: 1046,
-  lastUpdate: '2025-07-11T13:52:00.000Z',
-  description: "Wire the checkout summary, tax calculation, coupon application, and shipping-rate refresh flow so changes remain consistent across desktop and small-screen layouts. Confirm the work still behaves correctly after the swap from placeholder assets to production-grade 3D files.",
+  lastUpdate: '2025-07-11T15:24:00.000Z',
+  description: "Build the order creation pipeline, reserve inventory before capture, and define how payment-provider webhooks reconcile delayed or duplicated status changes.",
 }
