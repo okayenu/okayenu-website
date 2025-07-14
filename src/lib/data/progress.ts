@@ -1,9 +1,9 @@
-// Build progress: Task 797 of 1046
-// Date: July 14, 2025 10:07 AM
-// Profile checkout performance under burst traffic and remove expensive validation calls or blocking media fetches that slow the path to order confirmation.
+// Build progress: Task 798 of 1046
+// Date: July 14, 2025 12:09 PM
+// Implement anti-fraud and abuse checks around unusually fast repeat purchases, mismatched shipping metadata, and suspicious coupon usage without punishing normal shoppers.
 export const BUILD_PROGRESS = {
-  currentTask: 797,
+  currentTask: 798,
   totalTasks: 1046,
-  lastUpdate: '2025-07-14T15:07:00.000Z',
-  description: "Profile checkout performance under burst traffic and remove expensive validation calls or blocking media fetches that slow the path to order confirmation.",
+  lastUpdate: '2025-07-14T17:09:00.000Z',
+  description: "Implement anti-fraud and abuse checks around unusually fast repeat purchases, mismatched shipping metadata, and suspicious coupon usage without punishing normal shoppers.",
 }
