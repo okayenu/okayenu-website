@@ -1,9 +1,9 @@
-// Build progress: Task 811 of 1046
-// Date: July 15, 2025 12:47 PM
-// Add carrier integration plumbing for order reservation, inventory locking, and payment authorization and normalize status updates into a clean internal delivery timeline.
+// Build progress: Task 812 of 1046
+// Date: July 15, 2025 1:51 PM
+// Create the buyer-facing order history and tracking surfaces, including delivery milestones, delay notices, and support escalation links.
 export const BUILD_PROGRESS = {
-  currentTask: 811,
+  currentTask: 812,
   totalTasks: 1046,
-  lastUpdate: '2025-07-15T17:47:00.000Z',
-  description: "Add carrier integration plumbing for order reservation, inventory locking, and payment authorization and normalize status updates into a clean internal delivery timeline.",
+  lastUpdate: '2025-07-15T18:51:00.000Z',
+  description: "Create the buyer-facing order history and tracking surfaces, including delivery milestones, delay notices, and support escalation links.",
 }
