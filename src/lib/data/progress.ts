@@ -1,9 +1,9 @@
-// Build progress: Task 817 of 1046
-// Date: July 16, 2025 8:02 AM
-// Create the buyer-facing order history and tracking surfaces, including delivery milestones, delay notices, and support escalation links. Confirm the work still behaves correctly after the swap from placeholder assets to production-grade 3D files.
+// Build progress: Task 818 of 1046
+// Date: July 16, 2025 9:43 AM
+// Simulate payment failures, expired sessions, stock conflicts, and webhook retries, then patch the checkout flow so none of those cases create ghost orders.
 export const BUILD_PROGRESS = {
-  currentTask: 817,
+  currentTask: 818,
   totalTasks: 1046,
-  lastUpdate: '2025-07-16T13:02:00.000Z',
-  description: "Create the buyer-facing order history and tracking surfaces, including delivery milestones, delay notices, and support escalation links. Confirm the work still behaves correctly after the swap from placeholder assets to production-grade 3D files.",
+  lastUpdate: '2025-07-16T14:43:00.000Z',
+  description: "Simulate payment failures, expired sessions, stock conflicts, and webhook retries, then patch the checkout flow so none of those cases create ghost orders.",
 }
