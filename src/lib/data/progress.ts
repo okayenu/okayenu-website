@@ -1,9 +1,9 @@
-// Build progress: Task 826 of 1046
-// Date: July 16, 2025 6:54 PM
-// Wire the checkout summary, tax calculation, coupon application, and shipping-rate refresh flow so changes remain consistent across desktop and small-screen layouts.
+// Build progress: Task 827 of 1046
+// Date: July 17, 2025 8:11 AM
+// Debug synchronization gaps between checkout completion, merchant fulfillment views, and the tracking timeline so sellers and buyers see the same order truth.
 export const BUILD_PROGRESS = {
-  currentTask: 826,
+  currentTask: 827,
   totalTasks: 1046,
-  lastUpdate: '2025-07-16T23:54:00.000Z',
-  description: "Wire the checkout summary, tax calculation, coupon application, and shipping-rate refresh flow so changes remain consistent across desktop and small-screen layouts.",
+  lastUpdate: '2025-07-17T13:11:00.000Z',
+  description: "Debug synchronization gaps between checkout completion, merchant fulfillment views, and the tracking timeline so sellers and buyers see the same order truth.",
 }
