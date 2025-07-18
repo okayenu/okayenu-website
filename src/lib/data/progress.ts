@@ -1,9 +1,9 @@
-// Build progress: Task 839 of 1046
-// Date: July 18, 2025 11:14 AM
-// Create the buyer-facing order history and tracking surfaces, including delivery milestones, delay notices, and support escalation links.
+// Build progress: Task 840 of 1046
+// Date: July 18, 2025 11:43 AM
+// Simulate payment failures, expired sessions, stock conflicts, and webhook retries, then patch the checkout flow so none of those cases create ghost orders.
 export const BUILD_PROGRESS = {
-  currentTask: 839,
+  currentTask: 840,
   totalTasks: 1046,
-  lastUpdate: '2025-07-18T16:14:00.000Z',
-  description: "Create the buyer-facing order history and tracking surfaces, including delivery milestones, delay notices, and support escalation links.",
+  lastUpdate: '2025-07-18T16:43:00.000Z',
+  description: "Simulate payment failures, expired sessions, stock conflicts, and webhook retries, then patch the checkout flow so none of those cases create ghost orders.",
 }
