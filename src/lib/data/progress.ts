@@ -1,9 +1,9 @@
-// Build progress: Task 836 of 1046
-// Date: July 17, 2025 6:56 PM
-// Run a focused bug triage session on viewer state desynchronization after rapid variant changes, fix the root cause, and add coverage so the regression does not reappear later.
+// Build progress: Task 837 of 1046
+// Date: July 18, 2025 8:18 AM
+// Build the order creation pipeline, reserve inventory before capture, and define how payment-provider webhooks reconcile delayed or duplicated status changes.
 export const BUILD_PROGRESS = {
-  currentTask: 836,
+  currentTask: 837,
   totalTasks: 1046,
-  lastUpdate: '2025-07-17T23:56:00.000Z',
-  description: "Run a focused bug triage session on viewer state desynchronization after rapid variant changes, fix the root cause, and add coverage so the regression does not reappear later.",
+  lastUpdate: '2025-07-18T13:18:00.000Z',
+  description: "Build the order creation pipeline, reserve inventory before capture, and define how payment-provider webhooks reconcile delayed or duplicated status changes.",
 }
