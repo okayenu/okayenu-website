@@ -1,9 +1,9 @@
-// Build progress: Task 838 of 1046
-// Date: July 18, 2025 8:59 AM
-// Add carrier integration plumbing for fulfillment handoff, label creation, and order state webhooks and normalize status updates into a clean internal delivery timeline.
+// Build progress: Task 839 of 1046
+// Date: July 18, 2025 11:14 AM
+// Create the buyer-facing order history and tracking surfaces, including delivery milestones, delay notices, and support escalation links.
 export const BUILD_PROGRESS = {
-  currentTask: 838,
+  currentTask: 839,
   totalTasks: 1046,
-  lastUpdate: '2025-07-18T13:59:00.000Z',
-  description: "Add carrier integration plumbing for fulfillment handoff, label creation, and order state webhooks and normalize status updates into a clean internal delivery timeline.",
+  lastUpdate: '2025-07-18T16:14:00.000Z',
+  description: "Create the buyer-facing order history and tracking surfaces, including delivery milestones, delay notices, and support escalation links.",
 }
