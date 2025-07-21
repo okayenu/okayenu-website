@@ -1,9 +1,9 @@
-// Build progress: Task 847 of 1046
-// Date: July 21, 2025 8:21 AM
-// Implement anti-fraud and abuse checks around unusually fast repeat purchases, mismatched shipping metadata, and suspicious coupon usage without punishing normal shoppers. Confirm the work still behaves correctly after the swap from placeholder assets to production-grade 3D files.
+// Build progress: Task 848 of 1046
+// Date: July 21, 2025 10:21 AM
+// Refine the tracking UI so map updates, status chips, and delivery ETA language stay believable when carrier feeds are late, partial, or temporarily unavailable.
 export const BUILD_PROGRESS = {
-  currentTask: 847,
+  currentTask: 848,
   totalTasks: 1046,
-  lastUpdate: '2025-07-21T13:21:00.000Z',
-  description: "Implement anti-fraud and abuse checks around unusually fast repeat purchases, mismatched shipping metadata, and suspicious coupon usage without punishing normal shoppers. Confirm the work still behaves correctly after the swap from placeholder assets to production-grade 3D files.",
+  lastUpdate: '2025-07-21T15:21:00.000Z',
+  description: "Refine the tracking UI so map updates, status chips, and delivery ETA language stay believable when carrier feeds are late, partial, or temporarily unavailable.",
 }
