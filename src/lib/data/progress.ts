@@ -1,9 +1,9 @@
-// Build progress: Task 860 of 1046
-// Date: July 22, 2025 10:58 AM
-// Add carrier integration plumbing for wallet support, express payment buttons, and retry flows and normalize status updates into a clean internal delivery timeline.
+// Build progress: Task 861 of 1046
+// Date: July 22, 2025 1:49 PM
+// Create the buyer-facing order history and tracking surfaces, including delivery milestones, delay notices, and support escalation links.
 export const BUILD_PROGRESS = {
-  currentTask: 860,
+  currentTask: 861,
   totalTasks: 1046,
-  lastUpdate: '2025-07-22T15:58:00.000Z',
-  description: "Add carrier integration plumbing for wallet support, express payment buttons, and retry flows and normalize status updates into a clean internal delivery timeline.",
+  lastUpdate: '2025-07-22T18:49:00.000Z',
+  description: "Create the buyer-facing order history and tracking surfaces, including delivery milestones, delay notices, and support escalation links.",
 }
