@@ -1,9 +1,9 @@
-// Build progress: Task 858 of 1046
-// Date: July 22, 2025 9:49 AM
-// Wire the checkout summary, tax calculation, coupon application, and shipping-rate refresh flow so changes remain consistent across desktop and small-screen layouts.
+// Build progress: Task 859 of 1046
+// Date: July 22, 2025 10:26 AM
+// Build the order creation pipeline, reserve inventory before capture, and define how payment-provider webhooks reconcile delayed or duplicated status changes.
 export const BUILD_PROGRESS = {
-  currentTask: 858,
+  currentTask: 859,
   totalTasks: 1046,
-  lastUpdate: '2025-07-22T14:49:00.000Z',
-  description: "Wire the checkout summary, tax calculation, coupon application, and shipping-rate refresh flow so changes remain consistent across desktop and small-screen layouts.",
+  lastUpdate: '2025-07-22T15:26:00.000Z',
+  description: "Build the order creation pipeline, reserve inventory before capture, and define how payment-provider webhooks reconcile delayed or duplicated status changes.",
 }
