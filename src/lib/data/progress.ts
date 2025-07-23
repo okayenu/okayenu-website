@@ -1,9 +1,9 @@
-// Build progress: Task 866 of 1046
-// Date: July 22, 2025 7:06 PM
-// Debug synchronization gaps between checkout completion, merchant fulfillment views, and the tracking timeline so sellers and buyers see the same order truth.
+// Build progress: Task 867 of 1046
+// Date: July 23, 2025 8:06 AM
+// Simulate payment failures, expired sessions, stock conflicts, and webhook retries, then patch the checkout flow so none of those cases create ghost orders.
 export const BUILD_PROGRESS = {
-  currentTask: 866,
+  currentTask: 867,
   totalTasks: 1046,
-  lastUpdate: '2025-07-23T00:06:00.000Z',
-  description: "Debug synchronization gaps between checkout completion, merchant fulfillment views, and the tracking timeline so sellers and buyers see the same order truth.",
+  lastUpdate: '2025-07-23T13:06:00.000Z',
+  description: "Simulate payment failures, expired sessions, stock conflicts, and webhook retries, then patch the checkout flow so none of those cases create ghost orders.",
 }
