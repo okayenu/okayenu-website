@@ -1,9 +1,9 @@
-// Build progress: Task 872 of 1046
-// Date: July 23, 2025 12:08 PM
-// Expand automated coverage around wallet checkout, retryable payment errors, and delayed carrier webhooks to keep the fastest path stable as more features pile on.
+// Build progress: Task 873 of 1046
+// Date: July 23, 2025 1:23 PM
+// Design the one-click checkout architecture for wallet support, express payment buttons, and retry flows while keeping explicit fallback steps for first-time buyers and failed wallet authorizations.
 export const BUILD_PROGRESS = {
-  currentTask: 872,
+  currentTask: 873,
   totalTasks: 1046,
-  lastUpdate: '2025-07-23T17:08:00.000Z',
-  description: "Expand automated coverage around wallet checkout, retryable payment errors, and delayed carrier webhooks to keep the fastest path stable as more features pile on.",
+  lastUpdate: '2025-07-23T18:23:00.000Z',
+  description: "Design the one-click checkout architecture for wallet support, express payment buttons, and retry flows while keeping explicit fallback steps for first-time buyers and failed wallet authorizations.",
 }
