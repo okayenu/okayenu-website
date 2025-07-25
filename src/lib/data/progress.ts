@@ -1,9 +1,9 @@
-// Build progress: Task 886 of 1046
-// Date: July 24, 2025 5:58 PM
-// Implement anti-fraud and abuse checks around unusually fast repeat purchases, mismatched shipping metadata, and suspicious coupon usage without punishing normal shoppers.
+// Build progress: Task 887 of 1046
+// Date: July 25, 2025 9:03 AM
+// Add carrier integration plumbing for tracking ingestion from carrier APIs and order timeline rendering and normalize status updates into a clean internal delivery timeline.
 export const BUILD_PROGRESS = {
-  currentTask: 886,
+  currentTask: 887,
   totalTasks: 1046,
-  lastUpdate: '2025-07-24T22:58:00.000Z',
-  description: "Implement anti-fraud and abuse checks around unusually fast repeat purchases, mismatched shipping metadata, and suspicious coupon usage without punishing normal shoppers.",
+  lastUpdate: '2025-07-25T14:03:00.000Z',
+  description: "Add carrier integration plumbing for tracking ingestion from carrier APIs and order timeline rendering and normalize status updates into a clean internal delivery timeline.",
 }
