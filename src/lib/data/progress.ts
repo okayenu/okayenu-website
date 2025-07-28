@@ -1,9 +1,9 @@
-// Build progress: Task 896 of 1046
-// Date: July 25, 2025 7:01 PM
-// Run a focused bug triage session on viewer state desynchronization after rapid variant changes, fix the root cause, and add coverage so the regression does not reappear later.
+// Build progress: Task 897 of 1046
+// Date: July 28, 2025 8:06 AM
+// Implement direct messaging, group rooms, and lightweight presence states, then protect the system with mutes, blocks, and abuse-report entry points.
 export const BUILD_PROGRESS = {
-  currentTask: 896,
+  currentTask: 897,
   totalTasks: 1046,
-  lastUpdate: '2025-07-26T00:01:00.000Z',
-  description: "Run a focused bug triage session on viewer state desynchronization after rapid variant changes, fix the root cause, and add coverage so the regression does not reappear later.",
+  lastUpdate: '2025-07-28T13:06:00.000Z',
+  description: "Implement direct messaging, group rooms, and lightweight presence states, then protect the system with mutes, blocks, and abuse-report entry points.",
 }
