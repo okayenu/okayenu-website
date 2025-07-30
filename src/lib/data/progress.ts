@@ -1,9 +1,9 @@
-// Build progress: Task 924 of 1046
-// Date: July 30, 2025 4:48 PM
-// Benchmark reverse image search latency and memory usage, then decide where caching, batching, or asynchronous result hydration is needed.
+// Build progress: Task 925 of 1046
+// Date: July 30, 2025 6:08 PM
+// Add moderation checks for uploaded images and social media attachments so NSFW, copyrighted, or spammy content does not travel through discovery features unchecked.
 export const BUILD_PROGRESS = {
-  currentTask: 924,
+  currentTask: 925,
   totalTasks: 1046,
-  lastUpdate: '2025-07-30T21:48:00.000Z',
-  description: "Benchmark reverse image search latency and memory usage, then decide where caching, batching, or asynchronous result hydration is needed.",
+  lastUpdate: '2025-07-30T23:08:00.000Z',
+  description: "Add moderation checks for uploaded images and social media attachments so NSFW, copyrighted, or spammy content does not travel through discovery features unchecked.",
 }
