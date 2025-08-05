@@ -1,9 +1,9 @@
-// Build progress: Task 956 of 1046
-// Date: August 04, 2025 7:04 PM
-// Run a focused bug triage session on viewer state desynchronization after rapid variant changes, fix the root cause, and add coverage so the regression does not reappear later.
+// Build progress: Task 957 of 1046
+// Date: August 05, 2025 8:13 AM
+// Add moderation checks for uploaded images and social media attachments so NSFW, copyrighted, or spammy content does not travel through discovery features unchecked.
 export const BUILD_PROGRESS = {
-  currentTask: 956,
+  currentTask: 957,
   totalTasks: 1046,
-  lastUpdate: '2025-08-05T00:04:00.000Z',
-  description: "Run a focused bug triage session on viewer state desynchronization after rapid variant changes, fix the root cause, and add coverage so the regression does not reappear later.",
+  lastUpdate: '2025-08-05T13:13:00.000Z',
+  description: "Add moderation checks for uploaded images and social media attachments so NSFW, copyrighted, or spammy content does not travel through discovery features unchecked.",
 }
