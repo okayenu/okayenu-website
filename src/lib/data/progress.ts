@@ -1,9 +1,9 @@
-// Build progress: Task 962 of 1046
-// Date: August 05, 2025 1:42 PM
-// Build the social graph foundation for moderation tools for spam, harassment, and unsafe media and decide which user interests come from explicit follows versus inferred shopping behavior.
+// Build progress: Task 963 of 1046
+// Date: August 05, 2025 2:08 PM
+// Implement direct messaging, group rooms, and lightweight presence states, then protect the system with mutes, blocks, and abuse-report entry points.
 export const BUILD_PROGRESS = {
-  currentTask: 962,
+  currentTask: 963,
   totalTasks: 1046,
-  lastUpdate: '2025-08-05T18:42:00.000Z',
-  description: "Build the social graph foundation for moderation tools for spam, harassment, and unsafe media and decide which user interests come from explicit follows versus inferred shopping behavior.",
+  lastUpdate: '2025-08-05T19:08:00.000Z',
+  description: "Implement direct messaging, group rooms, and lightweight presence states, then protect the system with mutes, blocks, and abuse-report entry points.",
 }
