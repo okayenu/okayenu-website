@@ -1,9 +1,9 @@
-// Build progress: Task 957 of 1046
-// Date: August 05, 2025 8:13 AM
-// Add moderation checks for uploaded images and social media attachments so NSFW, copyrighted, or spammy content does not travel through discovery features unchecked.
+// Build progress: Task 958 of 1046
+// Date: August 05, 2025 9:32 AM
+// Run a full regression sweep across chat, groups, delivery sharing, and recommendation features to catch data leaks, notification storms, or state conflicts.
 export const BUILD_PROGRESS = {
-  currentTask: 957,
+  currentTask: 958,
   totalTasks: 1046,
-  lastUpdate: '2025-08-05T13:13:00.000Z',
-  description: "Add moderation checks for uploaded images and social media attachments so NSFW, copyrighted, or spammy content does not travel through discovery features unchecked.",
+  lastUpdate: '2025-08-05T14:32:00.000Z',
+  description: "Run a full regression sweep across chat, groups, delivery sharing, and recommendation features to catch data leaks, notification storms, or state conflicts.",
 }
