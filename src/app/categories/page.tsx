@@ -266,7 +266,7 @@ export default function CategoriesPage() {
               ? 'grid-cols-2 md:grid-cols-3'
               : 'grid-cols-3 md:grid-cols-4'
           }`}>
-            {filteredProducts.map(product => (
+            {filteredProducts.slice(0, 12).map((product, index) => (
               <ProductCard
                 key={product.id}
                 product={product}
@@ -274,6 +274,14 @@ export default function CategoriesPage() {
               />
             ))}
           </div>
+
+          {filteredProducts.length > 12 && (
+            <div className="text-center mt-12">
+              <button className="px-8 py-3 border border-white/20 text-white font-mono uppercase text-sm tracking-widest hover:bg-white hover:text-black transition-colors">
+                Load More Models
+              </button>
+            </div>
+          )}
 
           {filteredProducts.length === 0 && (
             <div className="text-center py-20">

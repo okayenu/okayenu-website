@@ -71,13 +71,22 @@ export default function Header() {
 
   return (
     <>
-      <div className="h-8 gradient-primary flex items-center justify-center">
-        <p className="text-white text-xs font-medium tracking-wider uppercase">
+      <div className="h-8 bg-fitsona-500 border-b border-white/10 flex items-center justify-between px-4 sm:px-8">
+        <div className="flex-1" />
+        <p className="text-black text-[10px] font-mono font-bold tracking-[0.2em] uppercase text-center flex-1">
           Free shipping on orders over $75 | New members get 15% off
         </p>
+        <div className="flex-1 flex justify-end">
+          <select className="bg-transparent text-black text-[10px] font-mono font-bold tracking-[0.1em] uppercase outline-none cursor-pointer">
+            <option value="USD">USD ($)</option>
+            <option value="EUR">EUR (€)</option>
+            <option value="GBP">GBP (£)</option>
+            <option value="JPY">JPY (¥)</option>
+          </select>
+        </div>
       </div>
 
-      <header className={`sticky top-0 z-50 transition-all duration-300 ${isScrolled ? 'glass shadow-lg' : 'bg-white'}`}>
+      <header className={`sticky top-0 z-50 transition-all duration-300 ${isScrolled ? 'glass' : 'bg-navy-950 border-b border-white/10'}`}>
         <div className="page-container">
           <div className="flex items-center justify-between h-16 md:h-20">
             <button

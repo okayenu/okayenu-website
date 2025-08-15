@@ -177,7 +177,7 @@
 'use client'
 
 import { useState } from 'react'
-import { BarChart3, Package, DollarSign, Users, TrendingUp, Upload, Settings, Eye, Star, ShoppingBag, ArrowUpRight, ArrowDownRight, Plus, Search, Filter, MoreHorizontal, Image } from 'lucide-react'
+import { BarChart3, Package, DollarSign, Users, TrendingUp, Upload, Settings, Eye, Star, ShoppingBag, ArrowUpRight, ArrowDownRight, Plus, Search, Filter, MoreHorizontal, Image, PackagePlus, Edit3, Save } from 'lucide-react'
 import { products, brands } from '@/lib/data/products'
 
 export default function DashboardPage() {
@@ -201,6 +201,7 @@ export default function DashboardPage() {
   const tabs = [
     { key: 'overview', label: 'Overview', icon: BarChart3 },
     { key: 'products', label: 'Products', icon: Package },
+    { key: 'inventory', label: 'Inventory & Variants', icon: PackagePlus },
     { key: 'orders', label: 'Orders', icon: ShoppingBag },
     { key: 'analytics', label: 'Analytics', icon: TrendingUp },
     { key: 'media', label: 'Media', icon: Image },
@@ -415,6 +416,88 @@ export default function DashboardPage() {
                       ))}
                     </tbody>
                   </table>
+                </div>
+              </div>
+            )}
+
+            {activeTab === 'inventory' && (
+              <div className="card">
+                <div className="p-6 border-b flex items-center justify-between flex-wrap gap-4">
+                  <div>
+                    <h3 className="font-display text-lg font-bold text-navy-800">Inventory & Variant Editor</h3>
+                    <p className="text-sm text-gray-500 mt-1">Manage stock levels, pricing, and 3D media attachments per variant.</p>
+                  </div>
+                  <button className="btn-primary flex items-center gap-2">
+                    <Save size={16} /> Save Changes
+                  </button>
+                </div>
+                
+                <div className="p-6 space-y-6">
+                  {/* Select Product to Edit */}
+                  <div className="bg-gray-50 p-4 rounded-xl flex items-center justify-between border border-gray-200">
+                    <div className="flex items-center gap-4">
+                      <div className="w-12 h-12 rounded-lg bg-white overflow-hidden border border-gray-200">
+                        <img src={products[0].images[0]} alt="Selected" className="w-full h-full object-cover" />
+                      </div>
+                      <div>
+                        <p className="font-semibold text-navy-800 text-sm">Currently Editing:</p>
+                        <p className="text-sm font-medium">{products[0].name}</p>
+                      </div>
+                    </div>
+                    <button className="btn-outline bg-white px-4 py-2 text-xs">Change Product</button>
+                  </div>
+
+                  {/* Variant Matrix */}
+                  <div className="border border-gray-200 rounded-xl overflow-hidden">
+                    <table className="w-full text-sm">
+                      <thead className="bg-gray-50 border-b border-gray-200">
+                        <tr>
+                          <th className="text-left px-5 py-3 text-xs font-semibold text-navy-800">Variant (Color / Size)</th>
+                          <th className="text-left px-5 py-3 text-xs font-semibold text-navy-800">SKU</th>
+                          <th className="text-left px-5 py-3 text-xs font-semibold text-navy-800">Price ($)</th>
+                          <th className="text-left px-5 py-3 text-xs font-semibold text-navy-800">Stock Qty</th>
+                          <th className="text-left px-5 py-3 text-xs font-semibold text-navy-800">3D Asset</th>
+                          <th className="px-5 py-3"></th>
+                        </tr>
+                      </thead>
+                      <tbody className="divide-y divide-gray-100">
+                        {['Black / M', 'Black / L', 'White / M', 'Navy / S'].map((variant, idx) => (
+                          <tr key={idx} className="hover:bg-gray-50/50">
+                            <td className="px-5 py-3 font-medium text-navy-800">{variant}</td>
+                            <td className="px-5 py-3">
+                              <input type="text" defaultValue={`SKU-100${idx}`} className="w-24 px-2 py-1 border border-gray-200 rounded text-xs focus:ring-1 focus:ring-navy-800 outline-none" />
+                            </td>
+                            <td className="px-5 py-3">
+                              <input type="number" defaultValue={products[0].price.toFixed(2)} className="w-20 px-2 py-1 border border-gray-200 rounded text-xs focus:ring-1 focus:ring-navy-800 outline-none" />
+                            </td>
+                            <td className="px-5 py-3">
+                              <input type="number" defaultValue={idx === 3 ? 0 : 24 - idx * 5} className="w-16 px-2 py-1 border border-gray-200 rounded text-xs focus:ring-1 focus:ring-navy-800 outline-none" />
+                            </td>
+                            <td className="px-5 py-3">
+                              <div className="flex items-center gap-2">
+                                <span className={`text-[10px] font-medium px-2 py-0.5 rounded-sm ${idx % 2 === 0 ? 'bg-green-100 text-green-700' : 'bg-gray-100 text-gray-500'}`}>
+                                  {idx % 2 === 0 ? '.glb attached' : 'No 3D Model'}
+                                </span>
+                                <button className="p-1 hover:bg-gray-200 rounded text-gray-500" title="Attach Media">
+                                  <Upload size={14} />
+                                </button>
+                              </div>
+                            </td>
+                            <td className="px-5 py-3 text-right">
+                              <button className="text-gray-400 hover:text-red-500">
+                                <MoreHorizontal size={16} />
+                              </button>
+                            </td>
+                          </tr>
+                        ))}
+                      </tbody>
+                    </table>
+                    <div className="p-4 bg-gray-50 border-t border-gray-200">
+                      <button className="text-sm font-medium text-navy-800 flex items-center gap-2 hover:underline">
+                        <Plus size={16} /> Add New Variant
+                      </button>
+                    </div>
+                  </div>
                 </div>
               </div>
             )}

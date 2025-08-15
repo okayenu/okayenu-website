@@ -26,10 +26,18 @@ function ProductsContent() {
       <h1 className="section-heading mb-2">{title}</h1>
       <p className="text-gray-500 mb-8">{displayProducts.length} products</p>
       <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 md:gap-6">
-        {displayProducts.map(product => (
+        {displayProducts.slice(0, 12).map((product, index) => (
           <ProductCard key={product.id} product={product} />
         ))}
       </div>
+      
+      {displayProducts.length > 12 && (
+        <div className="text-center mt-12">
+          <button className="px-8 py-3 border border-white/20 text-white font-mono uppercase text-sm tracking-widest hover:bg-white hover:text-black transition-colors">
+            Load More Models
+          </button>
+        </div>
+      )}
     </div>
   )
 }

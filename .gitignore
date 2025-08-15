@@ -9,3 +9,5 @@ Clothes/
 .next/
 *.tsbuildinfo
 next-env.d.ts
+screenshots/
+intro-to-html/

@@ -206,15 +206,21 @@ function generateProduct(index: number): Product {
   const brand = brandNames[index % brandNames.length]
   const fitType = fitTypes[index % fitTypes.length]
   const gender = genders[index % genders.length]
-  const basePrice = 29.99 + (index * 7.5) % 150
+  
+  // Random price between 13 and 50
+  const pseudoRandom = ((index + 1) * 17.3) % 1;
+  const basePrice = 13 + (pseudoRandom * 37);
   const hasDiscount = index % 3 === 0
+  
+  const descriptors = ['Oversized', 'Tailored', 'Ribbed', 'Heavyweight', 'Washed', 'Pleated', 'Structured', 'Essential', 'Minimal', 'Asymmetric', 'Draped'];
+  const descriptor = descriptors[index % descriptors.length];
 
   return {
     id: `prod-${String(index + 1).padStart(4, '0')}`,
-    name: `${brand} ${category.slice(0, -1)} ${['Essential', 'Premium', 'Classic', 'Signature', 'Limited', 'Sport', 'Luxe', 'Street'][index % 8]}`,
+    name: `${descriptor} ${category.slice(0, -1)}`,
     brand,
     price: Math.round(basePrice * 100) / 100,
-    originalPrice: hasDiscount ? Math.round(basePrice * 1.4 * 100) / 100 : undefined,
+    originalPrice: hasDiscount ? Math.round((basePrice + 10 + (pseudoRandom * 15)) * 100) / 100 : undefined,
     description: `Elevate your wardrobe with this ${fitType} fit ${category.toLowerCase().slice(0, -1)} from ${brand}. Crafted from ${materials[index % materials.length].toLowerCase()} for all-day comfort and effortless style.`,
     category,
     subcategory: `${gender}'s ${category}`,
